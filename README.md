@@ -33,14 +33,16 @@ To run the code in this repository, you need:
 --------------
 
 ## Usage
-1.	Load the dataset (REQUIRED_DATA.mat) into MATLAB (onshore_height.mat is additional data if tsunami wave height is interested)
-2.	Open the ‘short_code.m’ file in MATLAB
-3.	Set the option for response variable (1 for tsunami height and 2 for tsunami loss), number of offshore sensors (1 for 99 sensors and 2 for 6 sensors), and waiting time
-4.	The input features are maximum wave amplitude from each offshore sensors and earthquake information, including magnitude, longitude, and latitude. The main response variable is tsunami loss.
-5.	Run the ‘short_code.m’ file in MATLAB
-6.	The results, including mean squared error and scatter plot for comparing model performance will be displayed in the MATLAB console
-
+1.	Run the ‘training_phase.py’. In this phase, by default the training_set inside 'data' folder will be used to execute the training phase
+2.	After the execution of the previous script, a training_results file inside 'results' folder will be created. This file contains the array calculated from the training phase.
+3.	Now, you can use ‘plot_training_results.py’ to show a plot of the quintuples (sta, lta, trigger on, trigger off, qni) extracted from training phase
+4.	Run the ‘testing_phase.py’. In this phase, by default the testing_set inside 'data' folder will be used to execute the testing phase. You will be asked to enter the name of the training_results from which the Testing Phase start.
+5.	After the execution of the previous script, a testing_results file inside 'results' folder will be created. This file contains the array calculated from the testing phase.
 --------------
 
 ## Contact
 For any questions, please contact Andrea Di Benedetto at andrea.dibenedetto@unipa.it (or andrea.dibenedetto@ingv.it), Giosué Lo Bosco at giosue.lobosco@unipa.it.
+
+--------------
+## Acknowledgments
+The authors would like to acknowledge Dario Delle Donne from Istituto Nazionale di Geofisica e Vulcanologica - Osservatorio Vesuviano (INGV-OV), for helping us to extract the data from STRA seismic station.
