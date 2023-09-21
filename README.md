@@ -33,15 +33,16 @@ To run the code in this repository, you need:
 --------------
 
 ## Usage
-1.	Run the ‘training_phase.py’. In this phase, by default the training_set inside 'data' folder will be used to execute the training phase
+1.	Run the ‘training_phase.py’. In this phase, by default the training_set inside 'data' folder will be used to execute the training phase.
 2.	After the execution of the previous script, a training_results file inside 'results' folder will be created. This file contains the array calculated from the training phase.
-3.	Now, you can use ‘plot_training_results.py’ to show a plot of the quintuples (sta, lta, trigger on, trigger off, qni) extracted from training phase
-4.	Run the ‘testing_phase.py’. In this phase, by default the testing_set inside 'data' folder will be used to execute the testing phase. You will be asked to enter the name of the training_results from which the Testing Phase start.
+3.	You can use ‘plot_results.py’ to show a plot of the quintuples (sta, lta, trigger on, trigger off, qni) extracted from training phase providing training_results file.
+4.	Run the ‘testing_phase.py’. In this phase, by default the testing_set inside 'data' folder will be used to execute the testing phase. You have to provide training_results file from which the Testing Phase start.
 5.	After the execution of the previous script, a testing_results file inside 'results' folder will be created. This file contains the array calculated from the testing phase.
+6. You can use ‘plot_results.py’ again to show a plot of the quintuples (sta, lta, trigger on, trigger off, qni) extracted from testing phase providing testing_results file.
 --------------
 
 ## Contact
-For any questions, please contact Andrea Di Benedetto at andrea.dibenedetto@unipa.it (or andrea.dibenedetto@ingv.it), Giosué Lo Bosco at giosue.lobosco@unipa.it.
+For any questions, please contact Andrea Di Benedetto at andrea.dibenedetto@unipa.it (or andrea.dibenedetto@ingv.it), Giosue' Lo Bosco at giosue.lobosco@unipa.it.
 
 --------------
 ## Acknowledgments

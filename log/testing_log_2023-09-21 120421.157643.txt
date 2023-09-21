@@ -1,0 +1,2335 @@
+Start time: 2023-09-21 12:04:22.137995
+-------
+STA: 6
+LTA: 80
+TRIG ON: 4
+TRIG OFF: 1
+-------
+RAW DATA:1 IT.STRA.EHE_20190605120206.sac
+RAW DATA:2 IT.STRA.EHE_20190605130001.sac
+Explosion Quake detected: 961.32
+Explosion Quake detected: 1137.82
+Explosion Quake detected: 1308.02
+Explosion Quake detected: 1967.64
+Explosion Quake detected: 2393.0
+Explosion Quake detected: 2845.22
+Explosion Quake detected: 3144.94
+Explosion Quake detected: 3256.92
+RAW DATA:3 IT.STRA.EHE_20190605140001.sac
+Explosion Quake detected: 413.26
+Explosion Quake detected: 548.3
+Explosion Quake detected: 1464.94
+Explosion Quake detected: 1624.38
+Explosion Quake detected: 2088.98
+Explosion Quake detected: 2153.56
+Explosion Quake detected: 2740.7
+Explosion Quake detected: 3370.18
+RAW DATA:4 IT.STRA.EHE_20190605150001.sac
+Explosion Quake detected: 289.2
+Explosion Quake detected: 329.92
+Explosion Quake detected: 1058.44
+Explosion Quake detected: 2664.88
+Explosion Quake detected: 3008.62
+Explosion Quake detected: 3281.34
+RAW DATA:5 IT.STRA.EHE_20190605160001.sac
+Explosion Quake detected: 820.3
+Explosion Quake detected: 1600.72
+Explosion Quake detected: 2647.46
+Explosion Quake detected: 3527.6
+RAW DATA:6 IT.STRA.EHE_20190605170001.sac
+trace duration < lta, day: 5
+or, trig_on trig_off: 4 1
+RAW DATA:7 IT.STRA.EHE_20190605185738.sac
+RAW DATA:8 IT.STRA.EHE_20190605190001.sac
+Explosion Quake detected: 363.7
+Explosion Quake detected: 415.48
+Explosion Quake detected: 1107.76
+Explosion Quake detected: 1251.92
+Explosion Quake detected: 1828.3
+Explosion Quake detected: 2258.82
+Explosion Quake detected: 3541.58
+RAW DATA:9 IT.STRA.EHE_20190605200001.sac
+Explosion Quake detected: 468.62
+Explosion Quake detected: 1529.08
+Explosion Quake detected: 1711.82
+Explosion Quake detected: 1821.2
+Explosion Quake detected: 2721.12
+RAW DATA:10 IT.STRA.EHE_20190605210001.sac
+Explosion Quake detected: 191.72
+Explosion Quake detected: 442.64
+Explosion Quake detected: 722.44
+Explosion Quake detected: 1213.58
+Explosion Quake detected: 1920.66
+Explosion Quake detected: 2603.0
+Explosion Quake detected: 3400.92
+RAW DATA:11 IT.STRA.EHE_20190605220001.sac
+Explosion Quake detected: 554.34
+Explosion Quake detected: 694.16
+RAW DATA:12 IT.STRA.EHE_20190605233351.sac
+
+experimental_num_eq: 93
+
+theoretical_num_eq: 56
+qni: 0.25
+-------
+STA: 6
+LTA: 80
+TRIG ON: 4
+TRIG OFF: 3
+-------
+RAW DATA:1 IT.STRA.EHE_20190605120206.sac
+RAW DATA:2 IT.STRA.EHE_20190605130001.sac
+Explosion Quake detected: 961.32
+Explosion Quake detected: 1137.82
+Explosion Quake detected: 1308.02
+Explosion Quake detected: 1967.64
+Explosion Quake detected: 2393.0
+Explosion Quake detected: 2845.22
+Explosion Quake detected: 3144.94
+Explosion Quake detected: 3256.92
+RAW DATA:3 IT.STRA.EHE_20190605140001.sac
+Explosion Quake detected: 413.26
+Explosion Quake detected: 548.3
+Explosion Quake detected: 1464.94
+Explosion Quake detected: 1624.38
+Explosion Quake detected: 2088.98
+Explosion Quake detected: 2153.56
+Explosion Quake detected: 2740.7
+Explosion Quake detected: 3370.18
+RAW DATA:4 IT.STRA.EHE_20190605150001.sac
+Explosion Quake detected: 289.2
+Explosion Quake detected: 329.92
+Explosion Quake detected: 1058.44
+Explosion Quake detected: 2664.88
+Explosion Quake detected: 3008.62
+Explosion Quake detected: 3281.34
+RAW DATA:5 IT.STRA.EHE_20190605160001.sac
+Explosion Quake detected: 820.3
+Explosion Quake detected: 1600.72
+Explosion Quake detected: 2647.46
+Explosion Quake detected: 3527.6
+RAW DATA:6 IT.STRA.EHE_20190605170001.sac
+trace duration < lta, day: 5
+or, trig_on trig_off: 4 3
+RAW DATA:7 IT.STRA.EHE_20190605185738.sac
+RAW DATA:8 IT.STRA.EHE_20190605190001.sac
+Explosion Quake detected: 363.7
+Explosion Quake detected: 415.48
+Explosion Quake detected: 1107.76
+Explosion Quake detected: 1251.92
+Explosion Quake detected: 1828.3
+Explosion Quake detected: 2258.82
+Explosion Quake detected: 3541.58
+RAW DATA:9 IT.STRA.EHE_20190605200001.sac
+Explosion Quake detected: 468.62
+Explosion Quake detected: 1529.08
+Explosion Quake detected: 1711.82
+Explosion Quake detected: 1821.2
+Explosion Quake detected: 2721.12
+RAW DATA:10 IT.STRA.EHE_20190605210001.sac
+Explosion Quake detected: 191.72
+Explosion Quake detected: 442.64
+Explosion Quake detected: 722.44
+Explosion Quake detected: 1213.58
+Explosion Quake detected: 1920.66
+Explosion Quake detected: 2603.0
+Explosion Quake detected: 3400.92
+RAW DATA:11 IT.STRA.EHE_20190605220001.sac
+Explosion Quake detected: 554.34
+Explosion Quake detected: 694.16
+RAW DATA:12 IT.STRA.EHE_20190605233351.sac
+
+experimental_num_eq: 94
+
+theoretical_num_eq: 56
+qni: 0.21
+-------
+STA: 6
+LTA: 80
+TRIG ON: 6
+TRIG OFF: 1
+-------
+RAW DATA:1 IT.STRA.EHE_20190605120206.sac
+RAW DATA:2 IT.STRA.EHE_20190605130001.sac
+Explosion Quake detected: 961.52
+Explosion Quake detected: 1137.86
+Explosion Quake detected: 1308.92
+Explosion Quake detected: 1968.02
+Explosion Quake detected: 2393.22
+Explosion Quake detected: 2846.0
+Explosion Quake detected: 3145.22
+Explosion Quake detected: 3257.22
+RAW DATA:3 IT.STRA.EHE_20190605140001.sac
+Explosion Quake detected: 413.6
+Explosion Quake detected: 548.68
+Explosion Quake detected: 1466.26
+Explosion Quake detected: 1624.66
+Explosion Quake detected: 2089.62
+Explosion Quake detected: 2740.82
+RAW DATA:4 IT.STRA.EHE_20190605150001.sac
+Explosion Quake detected: 289.9
+Explosion Quake detected: 330.04
+Explosion Quake detected: 1058.86
+Explosion Quake detected: 2665.52
+Explosion Quake detected: 3008.94
+Explosion Quake detected: 3281.4
+RAW DATA:5 IT.STRA.EHE_20190605160001.sac
+Explosion Quake detected: 820.6
+Explosion Quake detected: 1601.28
+Explosion Quake detected: 2648.24
+Explosion Quake detected: 3528.92
+RAW DATA:6 IT.STRA.EHE_20190605170001.sac
+trace duration < lta, day: 5
+or, trig_on trig_off: 6 1
+RAW DATA:7 IT.STRA.EHE_20190605185738.sac
+RAW DATA:8 IT.STRA.EHE_20190605190001.sac
+Explosion Quake detected: 364.16
+Explosion Quake detected: 416.36
+Explosion Quake detected: 1108.46
+Explosion Quake detected: 1252.0
+Explosion Quake detected: 1828.88
+Explosion Quake detected: 2259.54
+Explosion Quake detected: 3542.06
+RAW DATA:9 IT.STRA.EHE_20190605200001.sac
+Explosion Quake detected: 468.98
+Explosion Quake detected: 1529.4
+Explosion Quake detected: 1712.08
+Explosion Quake detected: 1821.66
+Explosion Quake detected: 2721.62
+RAW DATA:10 IT.STRA.EHE_20190605210001.sac
+Explosion Quake detected: 192.58
+Explosion Quake detected: 443.1
+Explosion Quake detected: 722.6
+Explosion Quake detected: 1214.8
+Explosion Quake detected: 1920.76
+Explosion Quake detected: 2603.2
+Explosion Quake detected: 3401.42
+RAW DATA:11 IT.STRA.EHE_20190605220001.sac
+Explosion Quake detected: 554.82
+Explosion Quake detected: 694.48
+RAW DATA:12 IT.STRA.EHE_20190605233351.sac
+
+experimental_num_eq: 72
+
+theoretical_num_eq: 56
+qni: 0.52
+-------
+STA: 6
+LTA: 80
+TRIG ON: 6
+TRIG OFF: 3
+-------
+RAW DATA:1 IT.STRA.EHE_20190605120206.sac
+RAW DATA:2 IT.STRA.EHE_20190605130001.sac
+Explosion Quake detected: 961.52
+Explosion Quake detected: 1137.86
+Explosion Quake detected: 1308.92
+Explosion Quake detected: 1968.02
+Explosion Quake detected: 2393.22
+Explosion Quake detected: 2846.0
+Explosion Quake detected: 3145.22
+Explosion Quake detected: 3257.22
+RAW DATA:3 IT.STRA.EHE_20190605140001.sac
+Explosion Quake detected: 413.6
+Explosion Quake detected: 548.68
+Explosion Quake detected: 1466.26
+Explosion Quake detected: 1624.66
+Explosion Quake detected: 2089.62
+Explosion Quake detected: 2740.82
+RAW DATA:4 IT.STRA.EHE_20190605150001.sac
+Explosion Quake detected: 289.9
+Explosion Quake detected: 330.04
+Explosion Quake detected: 1058.86
+Explosion Quake detected: 2665.52
+Explosion Quake detected: 3008.94
+Explosion Quake detected: 3281.4
+RAW DATA:5 IT.STRA.EHE_20190605160001.sac
+Explosion Quake detected: 820.6
+Explosion Quake detected: 1601.28
+Explosion Quake detected: 2648.24
+Explosion Quake detected: 3528.92
+RAW DATA:6 IT.STRA.EHE_20190605170001.sac
+trace duration < lta, day: 5
+or, trig_on trig_off: 6 3
+RAW DATA:7 IT.STRA.EHE_20190605185738.sac
+RAW DATA:8 IT.STRA.EHE_20190605190001.sac
+Explosion Quake detected: 364.16
+Explosion Quake detected: 416.36
+Explosion Quake detected: 1108.46
+Explosion Quake detected: 1252.0
+Explosion Quake detected: 1828.88
+Explosion Quake detected: 2259.54
+Explosion Quake detected: 3542.06
+RAW DATA:9 IT.STRA.EHE_20190605200001.sac
+Explosion Quake detected: 468.98
+Explosion Quake detected: 1529.4
+Explosion Quake detected: 1712.08
+Explosion Quake detected: 1821.66
+Explosion Quake detected: 2721.62
+RAW DATA:10 IT.STRA.EHE_20190605210001.sac
+Explosion Quake detected: 192.58
+Explosion Quake detected: 443.1
+Explosion Quake detected: 722.6
+Explosion Quake detected: 1214.8
+Explosion Quake detected: 1920.76
+Explosion Quake detected: 2603.2
+Explosion Quake detected: 3401.42
+RAW DATA:11 IT.STRA.EHE_20190605220001.sac
+Explosion Quake detected: 554.82
+Explosion Quake detected: 694.48
+RAW DATA:12 IT.STRA.EHE_20190605233351.sac
+
+experimental_num_eq: 73
+
+theoretical_num_eq: 56
+qni: 0.43
+-------
+STA: 6
+LTA: 80
+TRIG ON: 6
+TRIG OFF: 5
+-------
+RAW DATA:1 IT.STRA.EHE_20190605120206.sac
+RAW DATA:2 IT.STRA.EHE_20190605130001.sac
+Explosion Quake detected: 961.52
+Explosion Quake detected: 1137.86
+Explosion Quake detected: 1308.92
+Explosion Quake detected: 1968.02
+Explosion Quake detected: 2393.22
+Explosion Quake detected: 2846.0
+Explosion Quake detected: 3257.22
+RAW DATA:3 IT.STRA.EHE_20190605140001.sac
+Explosion Quake detected: 413.6
+Explosion Quake detected: 548.68
+Explosion Quake detected: 1466.26
+Explosion Quake detected: 1624.66
+Explosion Quake detected: 2089.62
+Explosion Quake detected: 2740.82
+RAW DATA:4 IT.STRA.EHE_20190605150001.sac
+Explosion Quake detected: 289.9
+Explosion Quake detected: 330.04
+Explosion Quake detected: 1058.86
+Explosion Quake detected: 2665.52
+Explosion Quake detected: 3008.94
+Explosion Quake detected: 3281.4
+RAW DATA:5 IT.STRA.EHE_20190605160001.sac
+Explosion Quake detected: 820.6
+Explosion Quake detected: 1601.28
+Explosion Quake detected: 2648.24
+Explosion Quake detected: 3528.92
+RAW DATA:6 IT.STRA.EHE_20190605170001.sac
+trace duration < lta, day: 5
+or, trig_on trig_off: 6 5
+RAW DATA:7 IT.STRA.EHE_20190605185738.sac
+RAW DATA:8 IT.STRA.EHE_20190605190001.sac
+Explosion Quake detected: 364.16
+Explosion Quake detected: 416.36
+Explosion Quake detected: 1108.46
+Explosion Quake detected: 1252.0
+Explosion Quake detected: 1828.88
+Explosion Quake detected: 2259.54
+Explosion Quake detected: 3542.06
+RAW DATA:9 IT.STRA.EHE_20190605200001.sac
+Explosion Quake detected: 468.98
+Explosion Quake detected: 1529.4
+Explosion Quake detected: 1712.08
+Explosion Quake detected: 1821.66
+RAW DATA:10 IT.STRA.EHE_20190605210001.sac
+Explosion Quake detected: 192.58
+Explosion Quake detected: 443.1
+Explosion Quake detected: 722.6
+Explosion Quake detected: 1214.8
+Explosion Quake detected: 1920.76
+Explosion Quake detected: 2603.2
+Explosion Quake detected: 3401.42
+RAW DATA:11 IT.STRA.EHE_20190605220001.sac
+Explosion Quake detected: 694.48
+RAW DATA:12 IT.STRA.EHE_20190605233351.sac
+
+experimental_num_eq: 73
+
+theoretical_num_eq: 56
+qni: 0.41
+-------
+STA: 6
+LTA: 100
+TRIG ON: 4
+TRIG OFF: 1
+-------
+RAW DATA:1 IT.STRA.EHE_20190605120206.sac
+RAW DATA:2 IT.STRA.EHE_20190605130001.sac
+Explosion Quake detected: 961.3
+Explosion Quake detected: 1137.82
+Explosion Quake detected: 1308.0
+Explosion Quake detected: 1967.62
+Explosion Quake detected: 2393.0
+Explosion Quake detected: 2845.18
+Explosion Quake detected: 3144.94
+Explosion Quake detected: 3257.06
+RAW DATA:3 IT.STRA.EHE_20190605140001.sac
+Explosion Quake detected: 413.48
+Explosion Quake detected: 548.42
+Explosion Quake detected: 1464.88
+Explosion Quake detected: 1624.36
+Explosion Quake detected: 2088.92
+Explosion Quake detected: 2152.28
+Explosion Quake detected: 2740.68
+Explosion Quake detected: 3369.16
+RAW DATA:4 IT.STRA.EHE_20190605150001.sac
+Explosion Quake detected: 289.18
+Explosion Quake detected: 329.78
+Explosion Quake detected: 1058.42
+Explosion Quake detected: 2664.82
+Explosion Quake detected: 3008.6
+Explosion Quake detected: 3281.12
+RAW DATA:5 IT.STRA.EHE_20190605160001.sac
+Explosion Quake detected: 820.28
+Explosion Quake detected: 1600.68
+Explosion Quake detected: 2647.4
+Explosion Quake detected: 3527.56
+RAW DATA:6 IT.STRA.EHE_20190605170001.sac
+trace duration < lta, day: 5
+or, trig_on trig_off: 4 1
+RAW DATA:7 IT.STRA.EHE_20190605185738.sac
+RAW DATA:8 IT.STRA.EHE_20190605190001.sac
+Explosion Quake detected: 363.7
+Explosion Quake detected: 415.1
+Explosion Quake detected: 1107.68
+Explosion Quake detected: 1251.9
+Explosion Quake detected: 1828.24
+Explosion Quake detected: 2258.8
+Explosion Quake detected: 3541.56
+RAW DATA:9 IT.STRA.EHE_20190605200001.sac
+Explosion Quake detected: 468.44
+Explosion Quake detected: 1529.06
+Explosion Quake detected: 1711.82
+Explosion Quake detected: 1821.18
+Explosion Quake detected: 2721.1
+RAW DATA:10 IT.STRA.EHE_20190605210001.sac
+Explosion Quake detected: 191.72
+Explosion Quake detected: 442.58
+Explosion Quake detected: 722.44
+Explosion Quake detected: 1213.28
+Explosion Quake detected: 1920.44
+Explosion Quake detected: 2602.78
+Explosion Quake detected: 3400.8
+RAW DATA:11 IT.STRA.EHE_20190605220001.sac
+Explosion Quake detected: 554.32
+Explosion Quake detected: 694.16
+RAW DATA:12 IT.STRA.EHE_20190605233351.sac
+
+experimental_num_eq: 96
+
+theoretical_num_eq: 56
+qni: 0.21
+-------
+STA: 6
+LTA: 100
+TRIG ON: 4
+TRIG OFF: 3
+-------
+RAW DATA:1 IT.STRA.EHE_20190605120206.sac
+RAW DATA:2 IT.STRA.EHE_20190605130001.sac
+Explosion Quake detected: 961.3
+Explosion Quake detected: 1137.82
+Explosion Quake detected: 1308.0
+Explosion Quake detected: 1967.62
+Explosion Quake detected: 2393.0
+Explosion Quake detected: 2845.18
+Explosion Quake detected: 3144.94
+Explosion Quake detected: 3257.06
+RAW DATA:3 IT.STRA.EHE_20190605140001.sac
+Explosion Quake detected: 413.48
+Explosion Quake detected: 548.42
+Explosion Quake detected: 1464.88
+Explosion Quake detected: 1624.36
+Explosion Quake detected: 2088.92
+Explosion Quake detected: 2152.28
+Explosion Quake detected: 2740.68
+Explosion Quake detected: 3369.16
+RAW DATA:4 IT.STRA.EHE_20190605150001.sac
+Explosion Quake detected: 289.18
+Explosion Quake detected: 329.78
+Explosion Quake detected: 1058.42
+Explosion Quake detected: 2664.82
+Explosion Quake detected: 3008.6
+Explosion Quake detected: 3281.12
+RAW DATA:5 IT.STRA.EHE_20190605160001.sac
+Explosion Quake detected: 820.28
+Explosion Quake detected: 1600.68
+Explosion Quake detected: 2647.4
+Explosion Quake detected: 3527.56
+RAW DATA:6 IT.STRA.EHE_20190605170001.sac
+trace duration < lta, day: 5
+or, trig_on trig_off: 4 3
+RAW DATA:7 IT.STRA.EHE_20190605185738.sac
+RAW DATA:8 IT.STRA.EHE_20190605190001.sac
+Explosion Quake detected: 363.7
+Explosion Quake detected: 415.1
+Explosion Quake detected: 1107.68
+Explosion Quake detected: 1251.9
+Explosion Quake detected: 1828.24
+Explosion Quake detected: 2258.8
+Explosion Quake detected: 3541.56
+RAW DATA:9 IT.STRA.EHE_20190605200001.sac
+Explosion Quake detected: 468.44
+Explosion Quake detected: 1529.06
+Explosion Quake detected: 1711.82
+Explosion Quake detected: 1821.18
+Explosion Quake detected: 2721.1
+RAW DATA:10 IT.STRA.EHE_20190605210001.sac
+Explosion Quake detected: 191.72
+Explosion Quake detected: 442.58
+Explosion Quake detected: 722.44
+Explosion Quake detected: 1213.28
+Explosion Quake detected: 1920.44
+Explosion Quake detected: 2602.78
+Explosion Quake detected: 3400.8
+RAW DATA:11 IT.STRA.EHE_20190605220001.sac
+Explosion Quake detected: 554.32
+Explosion Quake detected: 694.16
+RAW DATA:12 IT.STRA.EHE_20190605233351.sac
+
+experimental_num_eq: 97
+
+theoretical_num_eq: 56
+qni: 0.18
+-------
+STA: 6
+LTA: 100
+TRIG ON: 6
+TRIG OFF: 1
+-------
+RAW DATA:1 IT.STRA.EHE_20190605120206.sac
+RAW DATA:2 IT.STRA.EHE_20190605130001.sac
+Explosion Quake detected: 961.42
+Explosion Quake detected: 1137.86
+Explosion Quake detected: 1308.9
+Explosion Quake detected: 1967.94
+Explosion Quake detected: 2393.18
+Explosion Quake detected: 2845.94
+Explosion Quake detected: 3145.16
+Explosion Quake detected: 3257.6
+RAW DATA:3 IT.STRA.EHE_20190605140001.sac
+Explosion Quake detected: 413.62
+Explosion Quake detected: 548.68
+Explosion Quake detected: 1465.78
+Explosion Quake detected: 1624.62
+Explosion Quake detected: 2089.58
+Explosion Quake detected: 2740.8
+RAW DATA:4 IT.STRA.EHE_20190605150001.sac
+Explosion Quake detected: 289.7
+Explosion Quake detected: 329.98
+Explosion Quake detected: 1058.82
+Explosion Quake detected: 2665.5
+Explosion Quake detected: 3008.72
+Explosion Quake detected: 3281.38
+RAW DATA:5 IT.STRA.EHE_20190605160001.sac
+Explosion Quake detected: 820.42
+Explosion Quake detected: 1601.22
+Explosion Quake detected: 2647.94
+Explosion Quake detected: 3528.22
+RAW DATA:6 IT.STRA.EHE_20190605170001.sac
+trace duration < lta, day: 5
+or, trig_on trig_off: 6 1
+RAW DATA:7 IT.STRA.EHE_20190605185738.sac
+RAW DATA:8 IT.STRA.EHE_20190605190001.sac
+Explosion Quake detected: 363.98
+Explosion Quake detected: 415.78
+Explosion Quake detected: 1108.38
+Explosion Quake detected: 1252.0
+Explosion Quake detected: 1828.76
+Explosion Quake detected: 2259.46
+Explosion Quake detected: 3541.92
+RAW DATA:9 IT.STRA.EHE_20190605200001.sac
+Explosion Quake detected: 468.92
+Explosion Quake detected: 1529.34
+Explosion Quake detected: 1712.04
+Explosion Quake detected: 1821.6
+Explosion Quake detected: 2721.48
+RAW DATA:10 IT.STRA.EHE_20190605210001.sac
+Explosion Quake detected: 192.36
+Explosion Quake detected: 443.08
+Explosion Quake detected: 722.56
+Explosion Quake detected: 1214.6
+Explosion Quake detected: 1920.76
+Explosion Quake detected: 2603.16
+Explosion Quake detected: 3401.38
+RAW DATA:11 IT.STRA.EHE_20190605220001.sac
+Explosion Quake detected: 554.78
+Explosion Quake detected: 694.46
+RAW DATA:12 IT.STRA.EHE_20190605233351.sac
+
+experimental_num_eq: 75
+
+theoretical_num_eq: 56
+qni: 0.48
+-------
+STA: 6
+LTA: 100
+TRIG ON: 6
+TRIG OFF: 3
+-------
+RAW DATA:1 IT.STRA.EHE_20190605120206.sac
+RAW DATA:2 IT.STRA.EHE_20190605130001.sac
+Explosion Quake detected: 961.42
+Explosion Quake detected: 1137.86
+Explosion Quake detected: 1308.9
+Explosion Quake detected: 1967.94
+Explosion Quake detected: 2393.18
+Explosion Quake detected: 2845.94
+Explosion Quake detected: 3145.16
+Explosion Quake detected: 3257.6
+RAW DATA:3 IT.STRA.EHE_20190605140001.sac
+Explosion Quake detected: 413.62
+Explosion Quake detected: 548.68
+Explosion Quake detected: 1465.78
+Explosion Quake detected: 1624.62
+Explosion Quake detected: 2089.58
+Explosion Quake detected: 2740.8
+RAW DATA:4 IT.STRA.EHE_20190605150001.sac
+Explosion Quake detected: 289.7
+Explosion Quake detected: 329.98
+Explosion Quake detected: 1058.82
+Explosion Quake detected: 2665.5
+Explosion Quake detected: 3008.72
+Explosion Quake detected: 3281.38
+RAW DATA:5 IT.STRA.EHE_20190605160001.sac
+Explosion Quake detected: 820.42
+Explosion Quake detected: 1601.22
+Explosion Quake detected: 2647.94
+Explosion Quake detected: 3528.22
+RAW DATA:6 IT.STRA.EHE_20190605170001.sac
+trace duration < lta, day: 5
+or, trig_on trig_off: 6 3
+RAW DATA:7 IT.STRA.EHE_20190605185738.sac
+RAW DATA:8 IT.STRA.EHE_20190605190001.sac
+Explosion Quake detected: 363.98
+Explosion Quake detected: 415.78
+Explosion Quake detected: 1108.38
+Explosion Quake detected: 1252.0
+Explosion Quake detected: 1828.76
+Explosion Quake detected: 2259.46
+Explosion Quake detected: 3541.92
+RAW DATA:9 IT.STRA.EHE_20190605200001.sac
+Explosion Quake detected: 468.92
+Explosion Quake detected: 1529.34
+Explosion Quake detected: 1712.04
+Explosion Quake detected: 1821.6
+Explosion Quake detected: 2721.48
+RAW DATA:10 IT.STRA.EHE_20190605210001.sac
+Explosion Quake detected: 192.36
+Explosion Quake detected: 443.08
+Explosion Quake detected: 722.56
+Explosion Quake detected: 1214.6
+Explosion Quake detected: 1920.76
+Explosion Quake detected: 2603.16
+Explosion Quake detected: 3401.38
+RAW DATA:11 IT.STRA.EHE_20190605220001.sac
+Explosion Quake detected: 554.78
+Explosion Quake detected: 694.46
+RAW DATA:12 IT.STRA.EHE_20190605233351.sac
+
+experimental_num_eq: 76
+
+theoretical_num_eq: 56
+qni: 0.42
+-------
+STA: 6
+LTA: 100
+TRIG ON: 6
+TRIG OFF: 5
+-------
+RAW DATA:1 IT.STRA.EHE_20190605120206.sac
+RAW DATA:2 IT.STRA.EHE_20190605130001.sac
+Explosion Quake detected: 961.42
+Explosion Quake detected: 1137.86
+Explosion Quake detected: 1308.9
+Explosion Quake detected: 1967.94
+Explosion Quake detected: 2393.18
+Explosion Quake detected: 2845.94
+Explosion Quake detected: 3145.16
+Explosion Quake detected: 3257.6
+RAW DATA:3 IT.STRA.EHE_20190605140001.sac
+Explosion Quake detected: 413.62
+Explosion Quake detected: 548.68
+Explosion Quake detected: 1465.78
+Explosion Quake detected: 1624.62
+Explosion Quake detected: 2089.58
+Explosion Quake detected: 2740.8
+RAW DATA:4 IT.STRA.EHE_20190605150001.sac
+Explosion Quake detected: 289.7
+Explosion Quake detected: 329.98
+Explosion Quake detected: 1058.82
+Explosion Quake detected: 2665.5
+Explosion Quake detected: 3008.72
+Explosion Quake detected: 3281.38
+RAW DATA:5 IT.STRA.EHE_20190605160001.sac
+Explosion Quake detected: 820.42
+Explosion Quake detected: 1601.22
+Explosion Quake detected: 2647.94
+Explosion Quake detected: 3528.22
+RAW DATA:6 IT.STRA.EHE_20190605170001.sac
+trace duration < lta, day: 5
+or, trig_on trig_off: 6 5
+RAW DATA:7 IT.STRA.EHE_20190605185738.sac
+RAW DATA:8 IT.STRA.EHE_20190605190001.sac
+Explosion Quake detected: 363.98
+Explosion Quake detected: 415.78
+Explosion Quake detected: 1108.38
+Explosion Quake detected: 1252.0
+Explosion Quake detected: 1828.76
+Explosion Quake detected: 2259.46
+Explosion Quake detected: 3541.92
+RAW DATA:9 IT.STRA.EHE_20190605200001.sac
+Explosion Quake detected: 468.92
+Explosion Quake detected: 1529.34
+Explosion Quake detected: 1712.04
+Explosion Quake detected: 1821.6
+RAW DATA:10 IT.STRA.EHE_20190605210001.sac
+Explosion Quake detected: 192.36
+Explosion Quake detected: 443.08
+Explosion Quake detected: 722.56
+Explosion Quake detected: 1214.6
+Explosion Quake detected: 1920.76
+Explosion Quake detected: 2603.16
+Explosion Quake detected: 3401.38
+RAW DATA:11 IT.STRA.EHE_20190605220001.sac
+Explosion Quake detected: 694.46
+RAW DATA:12 IT.STRA.EHE_20190605233351.sac
+
+experimental_num_eq: 76
+
+theoretical_num_eq: 56
+qni: 0.39
+-------
+STA: 6
+LTA: 120
+TRIG ON: 4
+TRIG OFF: 1
+-------
+RAW DATA:1 IT.STRA.EHE_20190605120206.sac
+RAW DATA:2 IT.STRA.EHE_20190605130001.sac
+Explosion Quake detected: 961.3
+Explosion Quake detected: 1137.8
+Explosion Quake detected: 1307.88
+Explosion Quake detected: 1967.6
+Explosion Quake detected: 2393.0
+Explosion Quake detected: 2845.18
+Explosion Quake detected: 3144.94
+Explosion Quake detected: 3257.88
+RAW DATA:3 IT.STRA.EHE_20190605140001.sac
+Explosion Quake detected: 413.56
+Explosion Quake detected: 548.56
+Explosion Quake detected: 1464.78
+Explosion Quake detected: 1624.36
+Explosion Quake detected: 2088.92
+Explosion Quake detected: 2151.54
+Explosion Quake detected: 2740.68
+RAW DATA:4 IT.STRA.EHE_20190605150001.sac
+Explosion Quake detected: 289.18
+Explosion Quake detected: 329.46
+Explosion Quake detected: 1058.4
+Explosion Quake detected: 2664.82
+Explosion Quake detected: 3008.6
+Explosion Quake detected: 3281.06
+RAW DATA:5 IT.STRA.EHE_20190605160001.sac
+Explosion Quake detected: 820.28
+Explosion Quake detected: 1600.48
+Explosion Quake detected: 2647.38
+Explosion Quake detected: 3527.54
+RAW DATA:6 IT.STRA.EHE_20190605170001.sac
+trace duration < lta, day: 5
+or, trig_on trig_off: 4 1
+RAW DATA:7 IT.STRA.EHE_20190605185738.sac
+RAW DATA:8 IT.STRA.EHE_20190605190001.sac
+Explosion Quake detected: 363.7
+Explosion Quake detected: 415.08
+Explosion Quake detected: 1107.4
+Explosion Quake detected: 1251.94
+Explosion Quake detected: 1828.2
+Explosion Quake detected: 2258.8
+Explosion Quake detected: 3541.52
+RAW DATA:9 IT.STRA.EHE_20190605200001.sac
+Explosion Quake detected: 468.24
+Explosion Quake detected: 1529.04
+Explosion Quake detected: 1711.84
+Explosion Quake detected: 1821.62
+Explosion Quake detected: 2721.24
+RAW DATA:10 IT.STRA.EHE_20190605210001.sac
+Explosion Quake detected: 191.72
+Explosion Quake detected: 442.44
+Explosion Quake detected: 722.44
+Explosion Quake detected: 1213.18
+Explosion Quake detected: 1920.36
+Explosion Quake detected: 2602.74
+Explosion Quake detected: 3400.78
+RAW DATA:11 IT.STRA.EHE_20190605220001.sac
+Explosion Quake detected: 554.32
+Explosion Quake detected: 694.16
+RAW DATA:12 IT.STRA.EHE_20190605233351.sac
+
+experimental_num_eq: 97
+
+theoretical_num_eq: 56
+qni: 0.2
+-------
+STA: 6
+LTA: 120
+TRIG ON: 4
+TRIG OFF: 3
+-------
+RAW DATA:1 IT.STRA.EHE_20190605120206.sac
+RAW DATA:2 IT.STRA.EHE_20190605130001.sac
+Explosion Quake detected: 961.3
+Explosion Quake detected: 1137.8
+Explosion Quake detected: 1307.88
+Explosion Quake detected: 1967.6
+Explosion Quake detected: 2393.0
+Explosion Quake detected: 2845.18
+Explosion Quake detected: 3144.94
+Explosion Quake detected: 3257.88
+RAW DATA:3 IT.STRA.EHE_20190605140001.sac
+Explosion Quake detected: 413.56
+Explosion Quake detected: 548.56
+Explosion Quake detected: 1464.78
+Explosion Quake detected: 1624.36
+Explosion Quake detected: 2088.92
+Explosion Quake detected: 2151.54
+Explosion Quake detected: 2740.68
+Explosion Quake detected: 3369.12
+RAW DATA:4 IT.STRA.EHE_20190605150001.sac
+Explosion Quake detected: 289.18
+Explosion Quake detected: 329.46
+Explosion Quake detected: 1058.4
+Explosion Quake detected: 2664.82
+Explosion Quake detected: 3008.6
+Explosion Quake detected: 3281.06
+RAW DATA:5 IT.STRA.EHE_20190605160001.sac
+Explosion Quake detected: 820.28
+Explosion Quake detected: 1600.48
+Explosion Quake detected: 2647.38
+Explosion Quake detected: 3527.54
+RAW DATA:6 IT.STRA.EHE_20190605170001.sac
+trace duration < lta, day: 5
+or, trig_on trig_off: 4 3
+RAW DATA:7 IT.STRA.EHE_20190605185738.sac
+RAW DATA:8 IT.STRA.EHE_20190605190001.sac
+Explosion Quake detected: 363.7
+Explosion Quake detected: 415.08
+Explosion Quake detected: 1107.4
+Explosion Quake detected: 1251.94
+Explosion Quake detected: 1828.2
+Explosion Quake detected: 2258.8
+Explosion Quake detected: 3541.52
+RAW DATA:9 IT.STRA.EHE_20190605200001.sac
+Explosion Quake detected: 468.24
+Explosion Quake detected: 1529.04
+Explosion Quake detected: 1711.84
+Explosion Quake detected: 1821.62
+Explosion Quake detected: 2721.24
+RAW DATA:10 IT.STRA.EHE_20190605210001.sac
+Explosion Quake detected: 191.72
+Explosion Quake detected: 442.44
+Explosion Quake detected: 722.44
+Explosion Quake detected: 1213.18
+Explosion Quake detected: 1920.36
+Explosion Quake detected: 2602.74
+Explosion Quake detected: 3400.78
+RAW DATA:11 IT.STRA.EHE_20190605220001.sac
+Explosion Quake detected: 554.32
+Explosion Quake detected: 694.16
+RAW DATA:12 IT.STRA.EHE_20190605233351.sac
+
+experimental_num_eq: 99
+
+theoretical_num_eq: 56
+qni: 0.16
+-------
+STA: 6
+LTA: 120
+TRIG ON: 6
+TRIG OFF: 1
+-------
+RAW DATA:1 IT.STRA.EHE_20190605120206.sac
+RAW DATA:2 IT.STRA.EHE_20190605130001.sac
+Explosion Quake detected: 961.4
+Explosion Quake detected: 1137.84
+Explosion Quake detected: 1308.78
+Explosion Quake detected: 1967.72
+Explosion Quake detected: 2393.16
+Explosion Quake detected: 2845.9
+Explosion Quake detected: 3145.16
+Explosion Quake detected: 3260.74
+RAW DATA:3 IT.STRA.EHE_20190605140001.sac
+Explosion Quake detected: 413.88
+Explosion Quake detected: 548.7
+Explosion Quake detected: 1465.06
+Explosion Quake detected: 1624.62
+Explosion Quake detected: 2089.56
+Explosion Quake detected: 2154.86
+Explosion Quake detected: 2740.78
+RAW DATA:4 IT.STRA.EHE_20190605150001.sac
+Explosion Quake detected: 289.68
+Explosion Quake detected: 329.94
+Explosion Quake detected: 1058.78
+Explosion Quake detected: 2665.5
+Explosion Quake detected: 3008.7
+Explosion Quake detected: 3281.38
+RAW DATA:5 IT.STRA.EHE_20190605160001.sac
+Explosion Quake detected: 820.38
+Explosion Quake detected: 1600.96
+Explosion Quake detected: 2647.86
+Explosion Quake detected: 3528.12
+RAW DATA:6 IT.STRA.EHE_20190605170001.sac
+trace duration < lta, day: 5
+or, trig_on trig_off: 6 1
+RAW DATA:7 IT.STRA.EHE_20190605185738.sac
+RAW DATA:8 IT.STRA.EHE_20190605190001.sac
+Explosion Quake detected: 363.88
+Explosion Quake detected: 415.56
+Explosion Quake detected: 1107.92
+Explosion Quake detected: 1252.0
+Explosion Quake detected: 1828.72
+Explosion Quake detected: 2259.42
+Explosion Quake detected: 3541.9
+RAW DATA:9 IT.STRA.EHE_20190605200001.sac
+Explosion Quake detected: 468.88
+Explosion Quake detected: 1529.18
+Explosion Quake detected: 1712.04
+Explosion Quake detected: 1822.24
+Explosion Quake detected: 2721.6
+RAW DATA:10 IT.STRA.EHE_20190605210001.sac
+Explosion Quake detected: 192.44
+Explosion Quake detected: 443.06
+Explosion Quake detected: 722.56
+Explosion Quake detected: 1214.46
+Explosion Quake detected: 1920.74
+Explosion Quake detected: 2603.14
+Explosion Quake detected: 3401.34
+RAW DATA:11 IT.STRA.EHE_20190605220001.sac
+Explosion Quake detected: 554.76
+Explosion Quake detected: 694.48
+RAW DATA:12 IT.STRA.EHE_20190605233351.sac
+
+experimental_num_eq: 79
+
+theoretical_num_eq: 56
+qni: 0.42
+-------
+STA: 6
+LTA: 120
+TRIG ON: 6
+TRIG OFF: 3
+-------
+RAW DATA:1 IT.STRA.EHE_20190605120206.sac
+RAW DATA:2 IT.STRA.EHE_20190605130001.sac
+Explosion Quake detected: 961.4
+Explosion Quake detected: 1137.84
+Explosion Quake detected: 1308.78
+Explosion Quake detected: 1967.72
+Explosion Quake detected: 2393.16
+Explosion Quake detected: 2845.9
+Explosion Quake detected: 3145.16
+Explosion Quake detected: 3260.74
+RAW DATA:3 IT.STRA.EHE_20190605140001.sac
+Explosion Quake detected: 413.88
+Explosion Quake detected: 548.7
+Explosion Quake detected: 1465.06
+Explosion Quake detected: 1624.62
+Explosion Quake detected: 2089.56
+Explosion Quake detected: 2154.86
+Explosion Quake detected: 2740.78
+Explosion Quake detected: 3370.32
+RAW DATA:4 IT.STRA.EHE_20190605150001.sac
+Explosion Quake detected: 289.68
+Explosion Quake detected: 329.94
+Explosion Quake detected: 1058.78
+Explosion Quake detected: 2665.5
+Explosion Quake detected: 3008.7
+Explosion Quake detected: 3281.38
+RAW DATA:5 IT.STRA.EHE_20190605160001.sac
+Explosion Quake detected: 820.38
+Explosion Quake detected: 1600.96
+Explosion Quake detected: 2647.86
+Explosion Quake detected: 3528.12
+RAW DATA:6 IT.STRA.EHE_20190605170001.sac
+trace duration < lta, day: 5
+or, trig_on trig_off: 6 3
+RAW DATA:7 IT.STRA.EHE_20190605185738.sac
+RAW DATA:8 IT.STRA.EHE_20190605190001.sac
+Explosion Quake detected: 363.88
+Explosion Quake detected: 415.56
+Explosion Quake detected: 1107.92
+Explosion Quake detected: 1252.0
+Explosion Quake detected: 1828.72
+Explosion Quake detected: 2259.42
+Explosion Quake detected: 3541.9
+RAW DATA:9 IT.STRA.EHE_20190605200001.sac
+Explosion Quake detected: 468.88
+Explosion Quake detected: 1529.18
+Explosion Quake detected: 1712.04
+Explosion Quake detected: 1822.24
+Explosion Quake detected: 2721.6
+RAW DATA:10 IT.STRA.EHE_20190605210001.sac
+Explosion Quake detected: 192.44
+Explosion Quake detected: 443.06
+Explosion Quake detected: 722.56
+Explosion Quake detected: 1214.46
+Explosion Quake detected: 1920.74
+Explosion Quake detected: 2603.14
+Explosion Quake detected: 3401.34
+RAW DATA:11 IT.STRA.EHE_20190605220001.sac
+Explosion Quake detected: 554.76
+Explosion Quake detected: 694.48
+RAW DATA:12 IT.STRA.EHE_20190605233351.sac
+
+experimental_num_eq: 81
+
+theoretical_num_eq: 56
+qni: 0.37
+-------
+STA: 6
+LTA: 120
+TRIG ON: 6
+TRIG OFF: 5
+-------
+RAW DATA:1 IT.STRA.EHE_20190605120206.sac
+RAW DATA:2 IT.STRA.EHE_20190605130001.sac
+Explosion Quake detected: 961.4
+Explosion Quake detected: 1137.84
+Explosion Quake detected: 1308.78
+Explosion Quake detected: 1967.72
+Explosion Quake detected: 2393.16
+Explosion Quake detected: 2845.9
+Explosion Quake detected: 3145.16
+Explosion Quake detected: 3260.74
+RAW DATA:3 IT.STRA.EHE_20190605140001.sac
+Explosion Quake detected: 413.88
+Explosion Quake detected: 548.7
+Explosion Quake detected: 1465.06
+Explosion Quake detected: 1624.62
+Explosion Quake detected: 2089.56
+Explosion Quake detected: 2154.86
+Explosion Quake detected: 2740.78
+Explosion Quake detected: 3370.32
+RAW DATA:4 IT.STRA.EHE_20190605150001.sac
+Explosion Quake detected: 289.68
+Explosion Quake detected: 329.94
+Explosion Quake detected: 1058.78
+Explosion Quake detected: 2665.5
+Explosion Quake detected: 3008.7
+Explosion Quake detected: 3281.38
+RAW DATA:5 IT.STRA.EHE_20190605160001.sac
+Explosion Quake detected: 820.38
+Explosion Quake detected: 1600.96
+Explosion Quake detected: 2647.86
+Explosion Quake detected: 3528.12
+RAW DATA:6 IT.STRA.EHE_20190605170001.sac
+trace duration < lta, day: 5
+or, trig_on trig_off: 6 5
+RAW DATA:7 IT.STRA.EHE_20190605185738.sac
+RAW DATA:8 IT.STRA.EHE_20190605190001.sac
+Explosion Quake detected: 363.88
+Explosion Quake detected: 415.56
+Explosion Quake detected: 1107.92
+Explosion Quake detected: 1252.0
+Explosion Quake detected: 1828.72
+Explosion Quake detected: 2259.42
+Explosion Quake detected: 3541.9
+RAW DATA:9 IT.STRA.EHE_20190605200001.sac
+Explosion Quake detected: 468.88
+Explosion Quake detected: 1529.18
+Explosion Quake detected: 1712.04
+Explosion Quake detected: 1822.24
+RAW DATA:10 IT.STRA.EHE_20190605210001.sac
+Explosion Quake detected: 192.44
+Explosion Quake detected: 443.06
+Explosion Quake detected: 722.56
+Explosion Quake detected: 1214.46
+Explosion Quake detected: 1920.74
+Explosion Quake detected: 2603.14
+Explosion Quake detected: 3401.34
+RAW DATA:11 IT.STRA.EHE_20190605220001.sac
+Explosion Quake detected: 694.48
+RAW DATA:12 IT.STRA.EHE_20190605233351.sac
+
+experimental_num_eq: 81
+
+theoretical_num_eq: 56
+qni: 0.34
+-------
+STA: 8
+LTA: 80
+TRIG ON: 4
+TRIG OFF: 1
+-------
+RAW DATA:1 IT.STRA.EHE_20190605120206.sac
+RAW DATA:2 IT.STRA.EHE_20190605130001.sac
+Explosion Quake detected: 961.4
+Explosion Quake detected: 1129.08
+Explosion Quake detected: 1308.86
+Explosion Quake detected: 1967.76
+Explosion Quake detected: 2393.12
+Explosion Quake detected: 2845.5
+Explosion Quake detected: 3145.0
+Explosion Quake detected: 3257.02
+RAW DATA:3 IT.STRA.EHE_20190605140001.sac
+Explosion Quake detected: 413.52
+Explosion Quake detected: 548.66
+Explosion Quake detected: 1465.76
+Explosion Quake detected: 1624.62
+Explosion Quake detected: 2089.4
+Explosion Quake detected: 2740.76
+RAW DATA:4 IT.STRA.EHE_20190605150001.sac
+Explosion Quake detected: 289.66
+Explosion Quake detected: 330.0
+Explosion Quake detected: 1058.8
+Explosion Quake detected: 2665.46
+Explosion Quake detected: 3008.7
+Explosion Quake detected: 3281.38
+RAW DATA:5 IT.STRA.EHE_20190605160001.sac
+Explosion Quake detected: 820.36
+Explosion Quake detected: 1600.96
+Explosion Quake detected: 2647.88
+Explosion Quake detected: 3528.12
+RAW DATA:6 IT.STRA.EHE_20190605170001.sac
+trace duration < lta, day: 5
+or, trig_on trig_off: 4 1
+RAW DATA:7 IT.STRA.EHE_20190605185738.sac
+RAW DATA:8 IT.STRA.EHE_20190605190001.sac
+Explosion Quake detected: 363.8
+Explosion Quake detected: 415.8
+Explosion Quake detected: 1108.16
+Explosion Quake detected: 1251.98
+Explosion Quake detected: 1828.72
+Explosion Quake detected: 2259.28
+Explosion Quake detected: 3541.86
+RAW DATA:9 IT.STRA.EHE_20190605200001.sac
+Explosion Quake detected: 468.9
+Explosion Quake detected: 1529.16
+Explosion Quake detected: 1711.98
+Explosion Quake detected: 1821.36
+Explosion Quake detected: 2721.36
+RAW DATA:10 IT.STRA.EHE_20190605210001.sac
+Explosion Quake detected: 192.14
+Explosion Quake detected: 443.02
+Explosion Quake detected: 722.5
+Explosion Quake detected: 1214.46
+Explosion Quake detected: 1920.74
+Explosion Quake detected: 2603.12
+Explosion Quake detected: 3401.3
+RAW DATA:11 IT.STRA.EHE_20190605220001.sac
+Explosion Quake detected: 554.48
+Explosion Quake detected: 694.3
+RAW DATA:12 IT.STRA.EHE_20190605233351.sac
+
+experimental_num_eq: 78
+
+theoretical_num_eq: 56
+qni: 0.44
+-------
+STA: 8
+LTA: 80
+TRIG ON: 4
+TRIG OFF: 3
+-------
+RAW DATA:1 IT.STRA.EHE_20190605120206.sac
+RAW DATA:2 IT.STRA.EHE_20190605130001.sac
+Explosion Quake detected: 961.4
+Explosion Quake detected: 1137.84
+Explosion Quake detected: 1308.86
+Explosion Quake detected: 1967.76
+Explosion Quake detected: 2393.12
+Explosion Quake detected: 2845.5
+Explosion Quake detected: 3145.0
+Explosion Quake detected: 3257.02
+RAW DATA:3 IT.STRA.EHE_20190605140001.sac
+Explosion Quake detected: 413.52
+Explosion Quake detected: 548.66
+Explosion Quake detected: 1465.76
+Explosion Quake detected: 1624.62
+Explosion Quake detected: 2089.4
+Explosion Quake detected: 2740.76
+RAW DATA:4 IT.STRA.EHE_20190605150001.sac
+Explosion Quake detected: 289.66
+Explosion Quake detected: 330.0
+Explosion Quake detected: 1058.8
+Explosion Quake detected: 2665.46
+Explosion Quake detected: 3008.7
+Explosion Quake detected: 3281.38
+RAW DATA:5 IT.STRA.EHE_20190605160001.sac
+Explosion Quake detected: 820.36
+Explosion Quake detected: 1600.96
+Explosion Quake detected: 2647.88
+Explosion Quake detected: 3528.12
+RAW DATA:6 IT.STRA.EHE_20190605170001.sac
+trace duration < lta, day: 5
+or, trig_on trig_off: 4 3
+RAW DATA:7 IT.STRA.EHE_20190605185738.sac
+RAW DATA:8 IT.STRA.EHE_20190605190001.sac
+Explosion Quake detected: 363.8
+Explosion Quake detected: 415.8
+Explosion Quake detected: 1108.16
+Explosion Quake detected: 1251.98
+Explosion Quake detected: 1828.72
+Explosion Quake detected: 2259.28
+Explosion Quake detected: 3541.86
+RAW DATA:9 IT.STRA.EHE_20190605200001.sac
+Explosion Quake detected: 468.9
+Explosion Quake detected: 1529.16
+Explosion Quake detected: 1711.98
+Explosion Quake detected: 1821.36
+Explosion Quake detected: 2721.36
+RAW DATA:10 IT.STRA.EHE_20190605210001.sac
+Explosion Quake detected: 192.14
+Explosion Quake detected: 443.02
+Explosion Quake detected: 722.5
+Explosion Quake detected: 1214.46
+Explosion Quake detected: 1920.74
+Explosion Quake detected: 2603.12
+Explosion Quake detected: 3401.3
+RAW DATA:11 IT.STRA.EHE_20190605220001.sac
+Explosion Quake detected: 554.48
+Explosion Quake detected: 694.3
+RAW DATA:12 IT.STRA.EHE_20190605233351.sac
+
+experimental_num_eq: 80
+
+theoretical_num_eq: 56
+qni: 0.4
+-------
+STA: 8
+LTA: 100
+TRIG ON: 4
+TRIG OFF: 1
+-------
+RAW DATA:1 IT.STRA.EHE_20190605120206.sac
+RAW DATA:2 IT.STRA.EHE_20190605130001.sac
+Explosion Quake detected: 961.36
+Explosion Quake detected: 1128.7
+Explosion Quake detected: 1308.66
+Explosion Quake detected: 1967.7
+Explosion Quake detected: 2393.08
+Explosion Quake detected: 2845.3
+Explosion Quake detected: 3144.98
+Explosion Quake detected: 3257.38
+RAW DATA:3 IT.STRA.EHE_20190605140001.sac
+Explosion Quake detected: 413.58
+Explosion Quake detected: 548.66
+Explosion Quake detected: 1464.98
+Explosion Quake detected: 1624.6
+Explosion Quake detected: 2089.04
+Explosion Quake detected: 2155.52
+Explosion Quake detected: 2740.74
+Explosion Quake detected: 3370.48
+RAW DATA:4 IT.STRA.EHE_20190605150001.sac
+Explosion Quake detected: 289.3
+Explosion Quake detected: 329.94
+Explosion Quake detected: 1058.52
+Explosion Quake detected: 2665.28
+Explosion Quake detected: 3008.66
+Explosion Quake detected: 3281.38
+RAW DATA:5 IT.STRA.EHE_20190605160001.sac
+Explosion Quake detected: 820.34
+Explosion Quake detected: 1600.94
+Explosion Quake detected: 2647.82
+Explosion Quake detected: 3527.74
+RAW DATA:6 IT.STRA.EHE_20190605170001.sac
+trace duration < lta, day: 5
+or, trig_on trig_off: 4 1
+RAW DATA:7 IT.STRA.EHE_20190605185738.sac
+RAW DATA:8 IT.STRA.EHE_20190605190001.sac
+Explosion Quake detected: 363.78
+Explosion Quake detected: 415.64
+Explosion Quake detected: 1107.86
+Explosion Quake detected: 1251.98
+Explosion Quake detected: 1828.68
+Explosion Quake detected: 2259.22
+Explosion Quake detected: 3541.84
+RAW DATA:9 IT.STRA.EHE_20190605200001.sac
+Explosion Quake detected: 468.82
+Explosion Quake detected: 1529.14
+Explosion Quake detected: 1711.96
+Explosion Quake detected: 1821.34
+Explosion Quake detected: 2721.34
+RAW DATA:10 IT.STRA.EHE_20190605210001.sac
+Explosion Quake detected: 192.08
+Explosion Quake detected: 442.88
+Explosion Quake detected: 722.5
+Explosion Quake detected: 1920.72
+Explosion Quake detected: 2603.08
+Explosion Quake detected: 3401.08
+RAW DATA:11 IT.STRA.EHE_20190605220001.sac
+Explosion Quake detected: 554.46
+Explosion Quake detected: 694.3
+RAW DATA:12 IT.STRA.EHE_20190605233351.sac
+
+experimental_num_eq: 83
+
+theoretical_num_eq: 56
+qni: 0.37
+-------
+STA: 8
+LTA: 100
+TRIG ON: 4
+TRIG OFF: 3
+-------
+RAW DATA:1 IT.STRA.EHE_20190605120206.sac
+RAW DATA:2 IT.STRA.EHE_20190605130001.sac
+Explosion Quake detected: 961.36
+Explosion Quake detected: 1137.84
+Explosion Quake detected: 1308.66
+Explosion Quake detected: 1967.7
+Explosion Quake detected: 2393.08
+Explosion Quake detected: 2845.3
+Explosion Quake detected: 3144.98
+Explosion Quake detected: 3257.38
+RAW DATA:3 IT.STRA.EHE_20190605140001.sac
+Explosion Quake detected: 413.58
+Explosion Quake detected: 548.66
+Explosion Quake detected: 1464.98
+Explosion Quake detected: 1624.6
+Explosion Quake detected: 2089.04
+Explosion Quake detected: 2155.52
+Explosion Quake detected: 2740.74
+Explosion Quake detected: 3370.48
+RAW DATA:4 IT.STRA.EHE_20190605150001.sac
+Explosion Quake detected: 289.3
+Explosion Quake detected: 329.94
+Explosion Quake detected: 1058.52
+Explosion Quake detected: 2665.28
+Explosion Quake detected: 3008.66
+Explosion Quake detected: 3281.38
+RAW DATA:5 IT.STRA.EHE_20190605160001.sac
+Explosion Quake detected: 820.34
+Explosion Quake detected: 1600.94
+Explosion Quake detected: 2647.82
+Explosion Quake detected: 3527.74
+RAW DATA:6 IT.STRA.EHE_20190605170001.sac
+trace duration < lta, day: 5
+or, trig_on trig_off: 4 3
+RAW DATA:7 IT.STRA.EHE_20190605185738.sac
+RAW DATA:8 IT.STRA.EHE_20190605190001.sac
+Explosion Quake detected: 363.78
+Explosion Quake detected: 415.64
+Explosion Quake detected: 1107.86
+Explosion Quake detected: 1251.98
+Explosion Quake detected: 1828.68
+Explosion Quake detected: 2259.22
+Explosion Quake detected: 3541.84
+RAW DATA:9 IT.STRA.EHE_20190605200001.sac
+Explosion Quake detected: 468.82
+Explosion Quake detected: 1529.14
+Explosion Quake detected: 1711.96
+Explosion Quake detected: 1821.34
+Explosion Quake detected: 2721.34
+RAW DATA:10 IT.STRA.EHE_20190605210001.sac
+Explosion Quake detected: 192.08
+Explosion Quake detected: 442.88
+Explosion Quake detected: 722.5
+Explosion Quake detected: 1214.22
+Explosion Quake detected: 1920.72
+Explosion Quake detected: 2603.08
+Explosion Quake detected: 3401.08
+RAW DATA:11 IT.STRA.EHE_20190605220001.sac
+Explosion Quake detected: 554.46
+Explosion Quake detected: 694.3
+RAW DATA:12 IT.STRA.EHE_20190605233351.sac
+
+experimental_num_eq: 85
+
+theoretical_num_eq: 56
+qni: 0.34
+-------
+STA: 8
+LTA: 100
+TRIG ON: 6
+TRIG OFF: 1
+-------
+RAW DATA:1 IT.STRA.EHE_20190605120206.sac
+RAW DATA:2 IT.STRA.EHE_20190605130001.sac
+Explosion Quake detected: 961.92
+Explosion Quake detected: 1137.9
+Explosion Quake detected: 1309.72
+Explosion Quake detected: 1968.1
+Explosion Quake detected: 2393.86
+Explosion Quake detected: 2846.1
+Explosion Quake detected: 3145.46
+Explosion Quake detected: 3257.76
+RAW DATA:3 IT.STRA.EHE_20190605140001.sac
+Explosion Quake detected: 414.24
+Explosion Quake detected: 548.72
+Explosion Quake detected: 1466.64
+Explosion Quake detected: 1625.3
+Explosion Quake detected: 2089.78
+Explosion Quake detected: 2740.9
+RAW DATA:4 IT.STRA.EHE_20190605150001.sac
+Explosion Quake detected: 289.96
+Explosion Quake detected: 330.1
+Explosion Quake detected: 1058.94
+Explosion Quake detected: 2665.56
+Explosion Quake detected: 3009.28
+Explosion Quake detected: 3281.42
+RAW DATA:5 IT.STRA.EHE_20190605160001.sac
+Explosion Quake detected: 820.9
+Explosion Quake detected: 1601.32
+Explosion Quake detected: 2648.3
+Explosion Quake detected: 3529.04
+RAW DATA:6 IT.STRA.EHE_20190605170001.sac
+trace duration < lta, day: 5
+or, trig_on trig_off: 6 1
+RAW DATA:7 IT.STRA.EHE_20190605185738.sac
+RAW DATA:8 IT.STRA.EHE_20190605190001.sac
+Explosion Quake detected: 364.64
+Explosion Quake detected: 416.88
+Explosion Quake detected: 1108.6
+Explosion Quake detected: 1252.66
+Explosion Quake detected: 1829.48
+Explosion Quake detected: 2259.64
+Explosion Quake detected: 3542.12
+RAW DATA:9 IT.STRA.EHE_20190605200001.sac
+Explosion Quake detected: 469.0
+Explosion Quake detected: 1529.68
+Explosion Quake detected: 1712.18
+Explosion Quake detected: 1822.04
+Explosion Quake detected: 2721.64
+RAW DATA:10 IT.STRA.EHE_20190605210001.sac
+Explosion Quake detected: 192.86
+Explosion Quake detected: 443.3
+Explosion Quake detected: 723.04
+Explosion Quake detected: 1920.78
+Explosion Quake detected: 2603.84
+Explosion Quake detected: 3401.6
+RAW DATA:11 IT.STRA.EHE_20190605220001.sac
+Explosion Quake detected: 554.98
+Explosion Quake detected: 694.66
+RAW DATA:12 IT.STRA.EHE_20190605233351.sac
+
+experimental_num_eq: 70
+
+theoretical_num_eq: 56
+qni: 0.53
+-------
+STA: 8
+LTA: 100
+TRIG ON: 6
+TRIG OFF: 3
+-------
+RAW DATA:1 IT.STRA.EHE_20190605120206.sac
+RAW DATA:2 IT.STRA.EHE_20190605130001.sac
+Explosion Quake detected: 961.92
+Explosion Quake detected: 1137.9
+Explosion Quake detected: 1309.72
+Explosion Quake detected: 1968.1
+Explosion Quake detected: 2393.86
+Explosion Quake detected: 2846.1
+Explosion Quake detected: 3145.46
+Explosion Quake detected: 3257.76
+RAW DATA:3 IT.STRA.EHE_20190605140001.sac
+Explosion Quake detected: 414.24
+Explosion Quake detected: 548.72
+Explosion Quake detected: 1466.64
+Explosion Quake detected: 1625.3
+Explosion Quake detected: 2089.78
+Explosion Quake detected: 2740.9
+RAW DATA:4 IT.STRA.EHE_20190605150001.sac
+Explosion Quake detected: 289.96
+Explosion Quake detected: 330.1
+Explosion Quake detected: 1058.94
+Explosion Quake detected: 2665.56
+Explosion Quake detected: 3009.28
+Explosion Quake detected: 3281.42
+RAW DATA:5 IT.STRA.EHE_20190605160001.sac
+Explosion Quake detected: 820.9
+Explosion Quake detected: 1601.32
+Explosion Quake detected: 2648.3
+Explosion Quake detected: 3529.04
+RAW DATA:6 IT.STRA.EHE_20190605170001.sac
+trace duration < lta, day: 5
+or, trig_on trig_off: 6 3
+RAW DATA:7 IT.STRA.EHE_20190605185738.sac
+RAW DATA:8 IT.STRA.EHE_20190605190001.sac
+Explosion Quake detected: 364.64
+Explosion Quake detected: 416.88
+Explosion Quake detected: 1108.6
+Explosion Quake detected: 1252.66
+Explosion Quake detected: 1829.48
+Explosion Quake detected: 2259.64
+Explosion Quake detected: 3542.12
+RAW DATA:9 IT.STRA.EHE_20190605200001.sac
+Explosion Quake detected: 469.0
+Explosion Quake detected: 1529.68
+Explosion Quake detected: 1712.18
+Explosion Quake detected: 1822.04
+Explosion Quake detected: 2721.64
+RAW DATA:10 IT.STRA.EHE_20190605210001.sac
+Explosion Quake detected: 192.86
+Explosion Quake detected: 443.3
+Explosion Quake detected: 723.04
+Explosion Quake detected: 1215.16
+Explosion Quake detected: 1920.78
+Explosion Quake detected: 2603.84
+Explosion Quake detected: 3401.6
+RAW DATA:11 IT.STRA.EHE_20190605220001.sac
+Explosion Quake detected: 554.98
+Explosion Quake detected: 694.66
+RAW DATA:12 IT.STRA.EHE_20190605233351.sac
+
+experimental_num_eq: 71
+
+theoretical_num_eq: 56
+qni: 0.51
+-------
+STA: 8
+LTA: 100
+TRIG ON: 6
+TRIG OFF: 5
+-------
+RAW DATA:1 IT.STRA.EHE_20190605120206.sac
+RAW DATA:2 IT.STRA.EHE_20190605130001.sac
+Explosion Quake detected: 961.92
+Explosion Quake detected: 1137.9
+Explosion Quake detected: 1309.72
+Explosion Quake detected: 1968.1
+Explosion Quake detected: 2393.86
+Explosion Quake detected: 2846.1
+Explosion Quake detected: 3145.46
+Explosion Quake detected: 3257.76
+RAW DATA:3 IT.STRA.EHE_20190605140001.sac
+Explosion Quake detected: 414.24
+Explosion Quake detected: 548.72
+Explosion Quake detected: 1466.64
+Explosion Quake detected: 1625.3
+Explosion Quake detected: 2089.78
+Explosion Quake detected: 2740.9
+RAW DATA:4 IT.STRA.EHE_20190605150001.sac
+Explosion Quake detected: 289.96
+Explosion Quake detected: 330.1
+Explosion Quake detected: 1058.94
+Explosion Quake detected: 2665.56
+Explosion Quake detected: 3009.28
+Explosion Quake detected: 3281.42
+RAW DATA:5 IT.STRA.EHE_20190605160001.sac
+Explosion Quake detected: 820.9
+Explosion Quake detected: 1601.32
+Explosion Quake detected: 2648.3
+Explosion Quake detected: 3529.04
+RAW DATA:6 IT.STRA.EHE_20190605170001.sac
+trace duration < lta, day: 5
+or, trig_on trig_off: 6 5
+RAW DATA:7 IT.STRA.EHE_20190605185738.sac
+RAW DATA:8 IT.STRA.EHE_20190605190001.sac
+Explosion Quake detected: 364.64
+Explosion Quake detected: 416.88
+Explosion Quake detected: 1108.6
+Explosion Quake detected: 1252.66
+Explosion Quake detected: 1829.48
+Explosion Quake detected: 2259.64
+Explosion Quake detected: 3542.12
+RAW DATA:9 IT.STRA.EHE_20190605200001.sac
+Explosion Quake detected: 469.0
+Explosion Quake detected: 1529.68
+Explosion Quake detected: 1712.18
+Explosion Quake detected: 1822.04
+Explosion Quake detected: 2721.64
+RAW DATA:10 IT.STRA.EHE_20190605210001.sac
+Explosion Quake detected: 192.86
+Explosion Quake detected: 443.3
+Explosion Quake detected: 723.04
+Explosion Quake detected: 1215.16
+Explosion Quake detected: 1920.78
+Explosion Quake detected: 2603.84
+Explosion Quake detected: 3401.6
+RAW DATA:11 IT.STRA.EHE_20190605220001.sac
+Explosion Quake detected: 554.98
+Explosion Quake detected: 694.66
+RAW DATA:12 IT.STRA.EHE_20190605233351.sac
+
+experimental_num_eq: 71
+
+theoretical_num_eq: 56
+qni: 0.48
+-------
+STA: 8
+LTA: 120
+TRIG ON: 4
+TRIG OFF: 1
+-------
+RAW DATA:1 IT.STRA.EHE_20190605120206.sac
+RAW DATA:2 IT.STRA.EHE_20190605130001.sac
+Explosion Quake detected: 961.36
+Explosion Quake detected: 1128.56
+Explosion Quake detected: 1308.28
+Explosion Quake detected: 1967.68
+Explosion Quake detected: 2393.08
+Explosion Quake detected: 2845.26
+Explosion Quake detected: 3144.98
+Explosion Quake detected: 3259.02
+RAW DATA:3 IT.STRA.EHE_20190605140001.sac
+Explosion Quake detected: 413.62
+Explosion Quake detected: 548.68
+Explosion Quake detected: 1464.92
+Explosion Quake detected: 1624.6
+Explosion Quake detected: 2089.02
+Explosion Quake detected: 2152.68
+Explosion Quake detected: 2740.74
+RAW DATA:4 IT.STRA.EHE_20190605150001.sac
+Explosion Quake detected: 289.28
+Explosion Quake detected: 329.92
+Explosion Quake detected: 1058.5
+Explosion Quake detected: 2665.28
+Explosion Quake detected: 3008.66
+Explosion Quake detected: 3281.36
+RAW DATA:5 IT.STRA.EHE_20190605160001.sac
+Explosion Quake detected: 820.32
+Explosion Quake detected: 1600.74
+Explosion Quake detected: 2647.76
+Explosion Quake detected: 3527.66
+RAW DATA:6 IT.STRA.EHE_20190605170001.sac
+trace duration < lta, day: 5
+or, trig_on trig_off: 4 1
+RAW DATA:7 IT.STRA.EHE_20190605185738.sac
+RAW DATA:8 IT.STRA.EHE_20190605190001.sac
+Explosion Quake detected: 363.78
+Explosion Quake detected: 415.16
+Explosion Quake detected: 1107.82
+Explosion Quake detected: 1251.98
+Explosion Quake detected: 1828.64
+Explosion Quake detected: 2259.02
+Explosion Quake detected: 3541.84
+RAW DATA:9 IT.STRA.EHE_20190605200001.sac
+Explosion Quake detected: 468.8
+Explosion Quake detected: 1529.12
+Explosion Quake detected: 1711.98
+Explosion Quake detected: 1822.02
+Explosion Quake detected: 2721.36
+RAW DATA:10 IT.STRA.EHE_20190605210001.sac
+Explosion Quake detected: 192.12
+Explosion Quake detected: 442.8
+Explosion Quake detected: 722.5
+Explosion Quake detected: 1920.64
+Explosion Quake detected: 2603.06
+Explosion Quake detected: 3401.02
+RAW DATA:11 IT.STRA.EHE_20190605220001.sac
+Explosion Quake detected: 554.44
+Explosion Quake detected: 694.3
+RAW DATA:12 IT.STRA.EHE_20190605233351.sac
+
+experimental_num_eq: 83
+
+theoretical_num_eq: 56
+qni: 0.35
+-------
+STA: 8
+LTA: 120
+TRIG ON: 4
+TRIG OFF: 3
+-------
+RAW DATA:1 IT.STRA.EHE_20190605120206.sac
+RAW DATA:2 IT.STRA.EHE_20190605130001.sac
+Explosion Quake detected: 961.36
+Explosion Quake detected: 1137.82
+Explosion Quake detected: 1308.28
+Explosion Quake detected: 1967.68
+Explosion Quake detected: 2393.08
+Explosion Quake detected: 2845.26
+Explosion Quake detected: 3144.98
+Explosion Quake detected: 3259.02
+RAW DATA:3 IT.STRA.EHE_20190605140001.sac
+Explosion Quake detected: 413.62
+Explosion Quake detected: 548.68
+Explosion Quake detected: 1464.92
+Explosion Quake detected: 1624.6
+Explosion Quake detected: 2089.02
+Explosion Quake detected: 2152.68
+Explosion Quake detected: 2740.74
+Explosion Quake detected: 3369.56
+RAW DATA:4 IT.STRA.EHE_20190605150001.sac
+Explosion Quake detected: 289.28
+Explosion Quake detected: 329.92
+Explosion Quake detected: 1058.5
+Explosion Quake detected: 2665.28
+Explosion Quake detected: 3008.66
+Explosion Quake detected: 3281.36
+RAW DATA:5 IT.STRA.EHE_20190605160001.sac
+Explosion Quake detected: 820.32
+Explosion Quake detected: 1600.74
+Explosion Quake detected: 2647.76
+Explosion Quake detected: 3527.66
+RAW DATA:6 IT.STRA.EHE_20190605170001.sac
+trace duration < lta, day: 5
+or, trig_on trig_off: 4 3
+RAW DATA:7 IT.STRA.EHE_20190605185738.sac
+RAW DATA:8 IT.STRA.EHE_20190605190001.sac
+Explosion Quake detected: 363.78
+Explosion Quake detected: 415.16
+Explosion Quake detected: 1107.82
+Explosion Quake detected: 1251.98
+Explosion Quake detected: 1828.64
+Explosion Quake detected: 2259.02
+Explosion Quake detected: 3541.84
+RAW DATA:9 IT.STRA.EHE_20190605200001.sac
+Explosion Quake detected: 468.8
+Explosion Quake detected: 1529.12
+Explosion Quake detected: 1711.98
+Explosion Quake detected: 1822.02
+Explosion Quake detected: 2721.36
+RAW DATA:10 IT.STRA.EHE_20190605210001.sac
+Explosion Quake detected: 192.12
+Explosion Quake detected: 442.8
+Explosion Quake detected: 722.5
+Explosion Quake detected: 1213.82
+Explosion Quake detected: 1920.64
+Explosion Quake detected: 2603.06
+Explosion Quake detected: 3401.02
+RAW DATA:11 IT.STRA.EHE_20190605220001.sac
+Explosion Quake detected: 554.44
+Explosion Quake detected: 694.3
+RAW DATA:12 IT.STRA.EHE_20190605233351.sac
+
+experimental_num_eq: 86
+
+theoretical_num_eq: 56
+qni: 0.34
+-------
+STA: 8
+LTA: 120
+TRIG ON: 6
+TRIG OFF: 1
+-------
+RAW DATA:1 IT.STRA.EHE_20190605120206.sac
+RAW DATA:2 IT.STRA.EHE_20190605130001.sac
+Explosion Quake detected: 961.86
+Explosion Quake detected: 1137.88
+Explosion Quake detected: 1308.94
+Explosion Quake detected: 1968.06
+Explosion Quake detected: 2393.8
+Explosion Quake detected: 2846.06
+Explosion Quake detected: 3145.42
+RAW DATA:3 IT.STRA.EHE_20190605140001.sac
+Explosion Quake detected: 414.26
+Explosion Quake detected: 548.72
+Explosion Quake detected: 1466.16
+Explosion Quake detected: 1625.06
+Explosion Quake detected: 2089.64
+Explosion Quake detected: 2740.84
+RAW DATA:4 IT.STRA.EHE_20190605150001.sac
+Explosion Quake detected: 289.94
+Explosion Quake detected: 330.0
+Explosion Quake detected: 1058.9
+Explosion Quake detected: 2665.54
+Explosion Quake detected: 3009.04
+Explosion Quake detected: 3281.4
+RAW DATA:5 IT.STRA.EHE_20190605160001.sac
+Explosion Quake detected: 820.84
+Explosion Quake detected: 1601.28
+Explosion Quake detected: 2648.28
+Explosion Quake detected: 3528.92
+RAW DATA:6 IT.STRA.EHE_20190605170001.sac
+trace duration < lta, day: 5
+or, trig_on trig_off: 6 1
+RAW DATA:7 IT.STRA.EHE_20190605185738.sac
+RAW DATA:8 IT.STRA.EHE_20190605190001.sac
+Explosion Quake detected: 364.48
+Explosion Quake detected: 415.82
+Explosion Quake detected: 1108.5
+Explosion Quake detected: 1252.66
+Explosion Quake detected: 1829.22
+Explosion Quake detected: 2259.58
+Explosion Quake detected: 3542.1
+RAW DATA:9 IT.STRA.EHE_20190605200001.sac
+Explosion Quake detected: 468.98
+Explosion Quake detected: 1529.52
+Explosion Quake detected: 1712.16
+Explosion Quake detected: 1822.74
+Explosion Quake detected: 2721.64
+RAW DATA:10 IT.STRA.EHE_20190605210001.sac
+Explosion Quake detected: 192.84
+Explosion Quake detected: 443.12
+Explosion Quake detected: 723.02
+Explosion Quake detected: 1920.76
+Explosion Quake detected: 2603.28
+Explosion Quake detected: 3401.46
+RAW DATA:11 IT.STRA.EHE_20190605220001.sac
+Explosion Quake detected: 554.9
+Explosion Quake detected: 694.64
+RAW DATA:12 IT.STRA.EHE_20190605233351.sac
+
+experimental_num_eq: 70
+
+theoretical_num_eq: 56
+qni: 0.51
+-------
+STA: 8
+LTA: 120
+TRIG ON: 6
+TRIG OFF: 3
+-------
+RAW DATA:1 IT.STRA.EHE_20190605120206.sac
+RAW DATA:2 IT.STRA.EHE_20190605130001.sac
+Explosion Quake detected: 961.86
+Explosion Quake detected: 1137.88
+Explosion Quake detected: 1308.94
+Explosion Quake detected: 1968.06
+Explosion Quake detected: 2393.8
+Explosion Quake detected: 2846.06
+Explosion Quake detected: 3145.42
+RAW DATA:3 IT.STRA.EHE_20190605140001.sac
+Explosion Quake detected: 414.26
+Explosion Quake detected: 548.72
+Explosion Quake detected: 1466.16
+Explosion Quake detected: 1625.06
+Explosion Quake detected: 2089.64
+Explosion Quake detected: 2740.84
+RAW DATA:4 IT.STRA.EHE_20190605150001.sac
+Explosion Quake detected: 289.94
+Explosion Quake detected: 330.0
+Explosion Quake detected: 1058.9
+Explosion Quake detected: 2665.54
+Explosion Quake detected: 3009.04
+Explosion Quake detected: 3281.4
+RAW DATA:5 IT.STRA.EHE_20190605160001.sac
+Explosion Quake detected: 820.84
+Explosion Quake detected: 1601.28
+Explosion Quake detected: 2648.28
+Explosion Quake detected: 3528.92
+RAW DATA:6 IT.STRA.EHE_20190605170001.sac
+trace duration < lta, day: 5
+or, trig_on trig_off: 6 3
+RAW DATA:7 IT.STRA.EHE_20190605185738.sac
+RAW DATA:8 IT.STRA.EHE_20190605190001.sac
+Explosion Quake detected: 364.48
+Explosion Quake detected: 415.82
+Explosion Quake detected: 1108.5
+Explosion Quake detected: 1252.66
+Explosion Quake detected: 1829.22
+Explosion Quake detected: 2259.58
+Explosion Quake detected: 3542.1
+RAW DATA:9 IT.STRA.EHE_20190605200001.sac
+Explosion Quake detected: 468.98
+Explosion Quake detected: 1529.52
+Explosion Quake detected: 1712.16
+Explosion Quake detected: 1822.74
+Explosion Quake detected: 2721.64
+RAW DATA:10 IT.STRA.EHE_20190605210001.sac
+Explosion Quake detected: 192.84
+Explosion Quake detected: 443.12
+Explosion Quake detected: 723.02
+Explosion Quake detected: 1215.12
+Explosion Quake detected: 1920.76
+Explosion Quake detected: 2603.28
+Explosion Quake detected: 3401.46
+RAW DATA:11 IT.STRA.EHE_20190605220001.sac
+Explosion Quake detected: 554.9
+Explosion Quake detected: 694.64
+RAW DATA:12 IT.STRA.EHE_20190605233351.sac
+
+experimental_num_eq: 70
+
+theoretical_num_eq: 56
+qni: 0.54
+-------
+STA: 8
+LTA: 120
+TRIG ON: 6
+TRIG OFF: 5
+-------
+RAW DATA:1 IT.STRA.EHE_20190605120206.sac
+RAW DATA:2 IT.STRA.EHE_20190605130001.sac
+Explosion Quake detected: 961.86
+Explosion Quake detected: 1137.88
+Explosion Quake detected: 1308.94
+Explosion Quake detected: 1968.06
+Explosion Quake detected: 2393.8
+Explosion Quake detected: 2846.06
+Explosion Quake detected: 3145.42
+RAW DATA:3 IT.STRA.EHE_20190605140001.sac
+Explosion Quake detected: 414.26
+Explosion Quake detected: 548.72
+Explosion Quake detected: 1466.16
+Explosion Quake detected: 1625.06
+Explosion Quake detected: 2089.64
+Explosion Quake detected: 2740.84
+RAW DATA:4 IT.STRA.EHE_20190605150001.sac
+Explosion Quake detected: 289.94
+Explosion Quake detected: 330.0
+Explosion Quake detected: 1058.9
+Explosion Quake detected: 2665.54
+Explosion Quake detected: 3009.04
+Explosion Quake detected: 3281.4
+RAW DATA:5 IT.STRA.EHE_20190605160001.sac
+Explosion Quake detected: 820.84
+Explosion Quake detected: 1601.28
+Explosion Quake detected: 2648.28
+Explosion Quake detected: 3528.92
+RAW DATA:6 IT.STRA.EHE_20190605170001.sac
+trace duration < lta, day: 5
+or, trig_on trig_off: 6 5
+RAW DATA:7 IT.STRA.EHE_20190605185738.sac
+RAW DATA:8 IT.STRA.EHE_20190605190001.sac
+Explosion Quake detected: 364.48
+Explosion Quake detected: 415.82
+Explosion Quake detected: 1108.5
+Explosion Quake detected: 1252.66
+Explosion Quake detected: 1829.22
+Explosion Quake detected: 2259.58
+Explosion Quake detected: 3542.1
+RAW DATA:9 IT.STRA.EHE_20190605200001.sac
+Explosion Quake detected: 468.98
+Explosion Quake detected: 1529.52
+Explosion Quake detected: 1712.16
+Explosion Quake detected: 1822.74
+Explosion Quake detected: 2721.64
+RAW DATA:10 IT.STRA.EHE_20190605210001.sac
+Explosion Quake detected: 192.84
+Explosion Quake detected: 443.12
+Explosion Quake detected: 723.02
+Explosion Quake detected: 1215.12
+Explosion Quake detected: 1920.76
+Explosion Quake detected: 2603.28
+Explosion Quake detected: 3401.46
+RAW DATA:11 IT.STRA.EHE_20190605220001.sac
+Explosion Quake detected: 554.9
+Explosion Quake detected: 694.64
+RAW DATA:12 IT.STRA.EHE_20190605233351.sac
+
+experimental_num_eq: 71
+
+theoretical_num_eq: 56
+qni: 0.49
+-------
+STA: 10
+LTA: 80
+TRIG ON: 4
+TRIG OFF: 1
+-------
+RAW DATA:1 IT.STRA.EHE_20190605120206.sac
+RAW DATA:2 IT.STRA.EHE_20190605130001.sac
+Explosion Quake detected: 961.78
+Explosion Quake detected: 1137.84
+Explosion Quake detected: 1308.94
+Explosion Quake detected: 1968.06
+Explosion Quake detected: 2393.26
+Explosion Quake detected: 2846.04
+Explosion Quake detected: 3145.22
+Explosion Quake detected: 3257.34
+RAW DATA:3 IT.STRA.EHE_20190605140001.sac
+Explosion Quake detected: 413.6
+Explosion Quake detected: 548.7
+Explosion Quake detected: 1466.46
+Explosion Quake detected: 1624.88
+Explosion Quake detected: 2089.62
+Explosion Quake detected: 2740.84
+RAW DATA:4 IT.STRA.EHE_20190605150001.sac
+Explosion Quake detected: 289.94
+Explosion Quake detected: 330.1
+Explosion Quake detected: 1058.9
+Explosion Quake detected: 2665.54
+Explosion Quake detected: 3009.02
+Explosion Quake detected: 3281.4
+RAW DATA:5 IT.STRA.EHE_20190605160001.sac
+Explosion Quake detected: 820.8
+Explosion Quake detected: 1601.28
+Explosion Quake detected: 2648.28
+Explosion Quake detected: 3528.9
+RAW DATA:6 IT.STRA.EHE_20190605170001.sac
+trace duration < lta, day: 5
+or, trig_on trig_off: 4 1
+RAW DATA:7 IT.STRA.EHE_20190605185738.sac
+RAW DATA:8 IT.STRA.EHE_20190605190001.sac
+Explosion Quake detected: 364.28
+Explosion Quake detected: 417.0
+Explosion Quake detected: 1108.52
+Explosion Quake detected: 1252.06
+Explosion Quake detected: 1829.16
+Explosion Quake detected: 2259.56
+Explosion Quake detected: 3542.08
+RAW DATA:9 IT.STRA.EHE_20190605200001.sac
+Explosion Quake detected: 468.98
+Explosion Quake detected: 1529.5
+Explosion Quake detected: 1712.1
+Explosion Quake detected: 1822.0
+Explosion Quake detected: 2721.64
+RAW DATA:10 IT.STRA.EHE_20190605210001.sac
+Explosion Quake detected: 192.8
+Explosion Quake detected: 443.1
+Explosion Quake detected: 722.66
+Explosion Quake detected: 1920.76
+Explosion Quake detected: 2603.24
+Explosion Quake detected: 3401.44
+RAW DATA:11 IT.STRA.EHE_20190605220001.sac
+Explosion Quake detected: 554.82
+Explosion Quake detected: 694.5
+RAW DATA:12 IT.STRA.EHE_20190605233351.sac
+
+experimental_num_eq: 72
+
+theoretical_num_eq: 56
+qni: 0.5
+-------
+STA: 10
+LTA: 80
+TRIG ON: 4
+TRIG OFF: 3
+-------
+RAW DATA:1 IT.STRA.EHE_20190605120206.sac
+RAW DATA:2 IT.STRA.EHE_20190605130001.sac
+Explosion Quake detected: 961.78
+Explosion Quake detected: 1137.84
+Explosion Quake detected: 1308.94
+Explosion Quake detected: 1968.06
+Explosion Quake detected: 2393.26
+Explosion Quake detected: 2846.04
+Explosion Quake detected: 3145.22
+Explosion Quake detected: 3257.34
+RAW DATA:3 IT.STRA.EHE_20190605140001.sac
+Explosion Quake detected: 413.6
+Explosion Quake detected: 548.7
+Explosion Quake detected: 1466.46
+Explosion Quake detected: 1624.88
+Explosion Quake detected: 2089.62
+Explosion Quake detected: 2740.84
+RAW DATA:4 IT.STRA.EHE_20190605150001.sac
+Explosion Quake detected: 289.94
+Explosion Quake detected: 330.1
+Explosion Quake detected: 1058.9
+Explosion Quake detected: 2665.54
+Explosion Quake detected: 3009.02
+Explosion Quake detected: 3281.4
+RAW DATA:5 IT.STRA.EHE_20190605160001.sac
+Explosion Quake detected: 820.8
+Explosion Quake detected: 1601.28
+Explosion Quake detected: 2648.28
+Explosion Quake detected: 3528.9
+RAW DATA:6 IT.STRA.EHE_20190605170001.sac
+trace duration < lta, day: 5
+or, trig_on trig_off: 4 3
+RAW DATA:7 IT.STRA.EHE_20190605185738.sac
+RAW DATA:8 IT.STRA.EHE_20190605190001.sac
+Explosion Quake detected: 364.28
+Explosion Quake detected: 417.0
+Explosion Quake detected: 1108.52
+Explosion Quake detected: 1252.06
+Explosion Quake detected: 1829.16
+Explosion Quake detected: 2259.56
+Explosion Quake detected: 3542.08
+RAW DATA:9 IT.STRA.EHE_20190605200001.sac
+Explosion Quake detected: 468.98
+Explosion Quake detected: 1529.5
+Explosion Quake detected: 1712.1
+Explosion Quake detected: 1822.0
+Explosion Quake detected: 2721.64
+RAW DATA:10 IT.STRA.EHE_20190605210001.sac
+Explosion Quake detected: 192.8
+Explosion Quake detected: 443.1
+Explosion Quake detected: 722.66
+Explosion Quake detected: 1215.1
+Explosion Quake detected: 1920.76
+Explosion Quake detected: 2603.24
+Explosion Quake detected: 3401.44
+RAW DATA:11 IT.STRA.EHE_20190605220001.sac
+Explosion Quake detected: 554.82
+Explosion Quake detected: 694.5
+RAW DATA:12 IT.STRA.EHE_20190605233351.sac
+
+experimental_num_eq: 72
+
+theoretical_num_eq: 56
+qni: 0.52
+-------
+STA: 10
+LTA: 100
+TRIG ON: 4
+TRIG OFF: 1
+-------
+RAW DATA:1 IT.STRA.EHE_20190605120206.sac
+RAW DATA:2 IT.STRA.EHE_20190605130001.sac
+Explosion Quake detected: 961.44
+Explosion Quake detected: 1137.82
+Explosion Quake detected: 1308.92
+Explosion Quake detected: 1968.0
+Explosion Quake detected: 2393.18
+Explosion Quake detected: 2845.96
+Explosion Quake detected: 3145.14
+Explosion Quake detected: 3257.66
+RAW DATA:3 IT.STRA.EHE_20190605140001.sac
+Explosion Quake detected: 413.64
+Explosion Quake detected: 548.7
+Explosion Quake detected: 1465.8
+Explosion Quake detected: 1624.64
+Explosion Quake detected: 2089.58
+Explosion Quake detected: 2740.8
+RAW DATA:4 IT.STRA.EHE_20190605150001.sac
+Explosion Quake detected: 289.84
+Explosion Quake detected: 330.0
+Explosion Quake detected: 1058.84
+Explosion Quake detected: 2665.5
+Explosion Quake detected: 3008.74
+Explosion Quake detected: 3281.4
+RAW DATA:5 IT.STRA.EHE_20190605160001.sac
+Explosion Quake detected: 820.46
+Explosion Quake detected: 1601.24
+Explosion Quake detected: 2648.08
+Explosion Quake detected: 3528.14
+RAW DATA:6 IT.STRA.EHE_20190605170001.sac
+trace duration < lta, day: 5
+or, trig_on trig_off: 4 1
+RAW DATA:7 IT.STRA.EHE_20190605185738.sac
+RAW DATA:8 IT.STRA.EHE_20190605190001.sac
+Explosion Quake detected: 364.2
+Explosion Quake detected: 415.8
+Explosion Quake detected: 1108.42
+Explosion Quake detected: 1252.02
+Explosion Quake detected: 1828.78
+Explosion Quake detected: 2259.48
+Explosion Quake detected: 3541.94
+RAW DATA:9 IT.STRA.EHE_20190605200001.sac
+Explosion Quake detected: 468.96
+Explosion Quake detected: 1529.36
+Explosion Quake detected: 1712.06
+Explosion Quake detected: 1821.68
+Explosion Quake detected: 2721.6
+RAW DATA:10 IT.STRA.EHE_20190605210001.sac
+Explosion Quake detected: 192.56
+Explosion Quake detected: 443.08
+Explosion Quake detected: 722.58
+Explosion Quake detected: 1920.76
+Explosion Quake detected: 2603.16
+Explosion Quake detected: 3401.36
+RAW DATA:11 IT.STRA.EHE_20190605220001.sac
+Explosion Quake detected: 554.78
+Explosion Quake detected: 694.48
+RAW DATA:12 IT.STRA.EHE_20190605233351.sac
+
+experimental_num_eq: 74
+
+theoretical_num_eq: 56
+qni: 0.46
+-------
+STA: 10
+LTA: 100
+TRIG ON: 4
+TRIG OFF: 3
+-------
+RAW DATA:1 IT.STRA.EHE_20190605120206.sac
+RAW DATA:2 IT.STRA.EHE_20190605130001.sac
+Explosion Quake detected: 961.44
+Explosion Quake detected: 1137.82
+Explosion Quake detected: 1308.92
+Explosion Quake detected: 1968.0
+Explosion Quake detected: 2393.18
+Explosion Quake detected: 2845.96
+Explosion Quake detected: 3145.14
+Explosion Quake detected: 3257.66
+RAW DATA:3 IT.STRA.EHE_20190605140001.sac
+Explosion Quake detected: 413.64
+Explosion Quake detected: 548.7
+Explosion Quake detected: 1465.8
+Explosion Quake detected: 1624.64
+Explosion Quake detected: 2089.58
+Explosion Quake detected: 2740.8
+RAW DATA:4 IT.STRA.EHE_20190605150001.sac
+Explosion Quake detected: 289.84
+Explosion Quake detected: 330.0
+Explosion Quake detected: 1058.84
+Explosion Quake detected: 2665.5
+Explosion Quake detected: 3008.74
+Explosion Quake detected: 3281.4
+RAW DATA:5 IT.STRA.EHE_20190605160001.sac
+Explosion Quake detected: 820.46
+Explosion Quake detected: 1601.24
+Explosion Quake detected: 2648.08
+Explosion Quake detected: 3528.14
+RAW DATA:6 IT.STRA.EHE_20190605170001.sac
+trace duration < lta, day: 5
+or, trig_on trig_off: 4 3
+RAW DATA:7 IT.STRA.EHE_20190605185738.sac
+RAW DATA:8 IT.STRA.EHE_20190605190001.sac
+Explosion Quake detected: 364.2
+Explosion Quake detected: 415.8
+Explosion Quake detected: 1108.42
+Explosion Quake detected: 1252.02
+Explosion Quake detected: 1828.78
+Explosion Quake detected: 2259.48
+Explosion Quake detected: 3541.94
+RAW DATA:9 IT.STRA.EHE_20190605200001.sac
+Explosion Quake detected: 468.96
+Explosion Quake detected: 1529.36
+Explosion Quake detected: 1712.06
+Explosion Quake detected: 1821.68
+Explosion Quake detected: 2721.6
+RAW DATA:10 IT.STRA.EHE_20190605210001.sac
+Explosion Quake detected: 192.56
+Explosion Quake detected: 443.08
+Explosion Quake detected: 722.58
+Explosion Quake detected: 1214.64
+Explosion Quake detected: 1920.76
+Explosion Quake detected: 2603.16
+Explosion Quake detected: 3401.36
+RAW DATA:11 IT.STRA.EHE_20190605220001.sac
+Explosion Quake detected: 554.78
+Explosion Quake detected: 694.48
+RAW DATA:12 IT.STRA.EHE_20190605233351.sac
+
+experimental_num_eq: 74
+
+theoretical_num_eq: 56
+qni: 0.51
+-------
+STA: 10
+LTA: 120
+TRIG ON: 4
+TRIG OFF: 1
+-------
+RAW DATA:1 IT.STRA.EHE_20190605120206.sac
+RAW DATA:2 IT.STRA.EHE_20190605130001.sac
+Explosion Quake detected: 961.42
+Explosion Quake detected: 1130.52
+Explosion Quake detected: 1308.88
+Explosion Quake detected: 1967.76
+Explosion Quake detected: 2393.16
+Explosion Quake detected: 2845.92
+Explosion Quake detected: 3145.14
+RAW DATA:3 IT.STRA.EHE_20190605140001.sac
+Explosion Quake detected: 548.7
+Explosion Quake detected: 1465.06
+Explosion Quake detected: 1624.64
+Explosion Quake detected: 2089.56
+Explosion Quake detected: 2740.8
+RAW DATA:4 IT.STRA.EHE_20190605150001.sac
+Explosion Quake detected: 289.7
+Explosion Quake detected: 329.96
+Explosion Quake detected: 1058.82
+Explosion Quake detected: 2665.5
+Explosion Quake detected: 3008.7
+Explosion Quake detected: 3281.38
+RAW DATA:5 IT.STRA.EHE_20190605160001.sac
+Explosion Quake detected: 820.4
+Explosion Quake detected: 1600.96
+Explosion Quake detected: 2647.88
+Explosion Quake detected: 3528.06
+RAW DATA:6 IT.STRA.EHE_20190605170001.sac
+trace duration < lta, day: 5
+or, trig_on trig_off: 4 1
+RAW DATA:7 IT.STRA.EHE_20190605185738.sac
+RAW DATA:8 IT.STRA.EHE_20190605190001.sac
+Explosion Quake detected: 364.1
+Explosion Quake detected: 415.74
+Explosion Quake detected: 1108.22
+Explosion Quake detected: 1252.02
+Explosion Quake detected: 1828.72
+Explosion Quake detected: 2259.44
+Explosion Quake detected: 3541.92
+RAW DATA:9 IT.STRA.EHE_20190605200001.sac
+Explosion Quake detected: 468.9
+Explosion Quake detected: 1529.28
+Explosion Quake detected: 1712.06
+Explosion Quake detected: 1822.46
+Explosion Quake detected: 2721.62
+RAW DATA:10 IT.STRA.EHE_20190605210001.sac
+Explosion Quake detected: 192.58
+Explosion Quake detected: 443.06
+Explosion Quake detected: 722.58
+Explosion Quake detected: 1920.74
+Explosion Quake detected: 2603.14
+Explosion Quake detected: 3401.32
+RAW DATA:11 IT.STRA.EHE_20190605220001.sac
+Explosion Quake detected: 554.76
+Explosion Quake detected: 694.48
+RAW DATA:12 IT.STRA.EHE_20190605233351.sac
+
+experimental_num_eq: 77
+
+theoretical_num_eq: 56
+qni: 0.41
+-------
+STA: 10
+LTA: 120
+TRIG ON: 4
+TRIG OFF: 3
+-------
+RAW DATA:1 IT.STRA.EHE_20190605120206.sac
+RAW DATA:2 IT.STRA.EHE_20190605130001.sac
+Explosion Quake detected: 961.42
+Explosion Quake detected: 1137.8
+Explosion Quake detected: 1308.88
+Explosion Quake detected: 1967.76
+Explosion Quake detected: 2393.16
+Explosion Quake detected: 2845.92
+Explosion Quake detected: 3145.14
+RAW DATA:3 IT.STRA.EHE_20190605140001.sac
+Explosion Quake detected: 413.96
+Explosion Quake detected: 548.7
+Explosion Quake detected: 1465.06
+Explosion Quake detected: 1624.64
+Explosion Quake detected: 2089.56
+Explosion Quake detected: 2740.8
+Explosion Quake detected: 3370.48
+RAW DATA:4 IT.STRA.EHE_20190605150001.sac
+Explosion Quake detected: 289.7
+Explosion Quake detected: 329.96
+Explosion Quake detected: 1058.82
+Explosion Quake detected: 2665.5
+Explosion Quake detected: 3008.7
+Explosion Quake detected: 3281.38
+RAW DATA:5 IT.STRA.EHE_20190605160001.sac
+Explosion Quake detected: 820.4
+Explosion Quake detected: 1600.96
+Explosion Quake detected: 2647.88
+Explosion Quake detected: 3528.06
+RAW DATA:6 IT.STRA.EHE_20190605170001.sac
+trace duration < lta, day: 5
+or, trig_on trig_off: 4 3
+RAW DATA:7 IT.STRA.EHE_20190605185738.sac
+RAW DATA:8 IT.STRA.EHE_20190605190001.sac
+Explosion Quake detected: 364.1
+Explosion Quake detected: 415.74
+Explosion Quake detected: 1108.22
+Explosion Quake detected: 1252.02
+Explosion Quake detected: 1828.72
+Explosion Quake detected: 2259.44
+Explosion Quake detected: 3541.92
+RAW DATA:9 IT.STRA.EHE_20190605200001.sac
+Explosion Quake detected: 468.9
+Explosion Quake detected: 1529.28
+Explosion Quake detected: 1712.06
+Explosion Quake detected: 1822.46
+Explosion Quake detected: 2721.62
+RAW DATA:10 IT.STRA.EHE_20190605210001.sac
+Explosion Quake detected: 192.58
+Explosion Quake detected: 443.06
+Explosion Quake detected: 722.58
+Explosion Quake detected: 1214.56
+Explosion Quake detected: 1920.74
+Explosion Quake detected: 2603.14
+Explosion Quake detected: 3401.32
+RAW DATA:11 IT.STRA.EHE_20190605220001.sac
+Explosion Quake detected: 554.76
+Explosion Quake detected: 694.48
+RAW DATA:12 IT.STRA.EHE_20190605233351.sac
+
+experimental_num_eq: 79
+
+theoretical_num_eq: 56
+qni: 0.44
+----------------
+FINAL RESULTS
+qn_index_trigger_on_complete_list[[0.25], [0.23], [0.5], [0.49], [0.49], [0.21], [0.2], [0.47], [0.46], [0.46], [0.2], [0.17], [0.41], [0.38], [0.38], [0.43], [0.41], [0.37], [0.34], [0.52], [0.5], [0.5], [0.37], [0.33], [0.53], [0.52], [0.51], [0.5], [0.5], [0.49], [0.48], [0.45], [0.42]]
+33
+qn_index_trigger_off_complete_list[[0.26], [0.18], [0.54], [0.38], [0.34], [0.21], [0.16], [0.49], [0.38], [0.32], [0.19], [0.15], [0.42], [0.35], [0.3], [0.45], [0.39], [0.37], [0.34], [0.54], [0.52], [0.46], [0.34], [0.34], [0.49], [0.55], [0.47], [0.5], [0.55], [0.44], [0.53], [0.37], [0.47]]
+33
+----------
+----------
+Mean trigger on and trigger off lists
+[[0.26], [0.2], [0.52], [0.44], [0.42], [0.21], [0.18], [0.48], [0.42], [0.39], [0.2], [0.16], [0.42], [0.36], [0.34], [0.44], [0.4], [0.37], [0.34], [0.53], [0.51], [0.48], [0.36], [0.34], [0.51], [0.54], [0.49], [0.5], [0.52], [0.46], [0.5], [0.41], [0.44]]
+33
+----------
+----------
+Quintuple results
+[(6, 80, 4, 1, 0.25), (6, 80, 4, 3, 0.21), (6, 80, 6, 1, 0.52), (6, 80, 6, 3, 0.43), (6, 80, 6, 5, 0.41), (6, 100, 4, 1, 0.21), (6, 100, 4, 3, 0.18), (6, 100, 6, 1, 0.48), (6, 100, 6, 3, 0.42), (6, 100, 6, 5, 0.39), (6, 120, 4, 1, 0.2), (6, 120, 4, 3, 0.16), (6, 120, 6, 1, 0.42), (6, 120, 6, 3, 0.37), (6, 120, 6, 5, 0.34), (8, 80, 4, 1, 0.44), (8, 80, 4, 3, 0.4), (8, 100, 4, 1, 0.37), (8, 100, 4, 3, 0.34), (8, 100, 6, 1, 0.53), (8, 100, 6, 3, 0.51), (8, 100, 6, 5, 0.48), (8, 120, 4, 1, 0.35), (8, 120, 4, 3, 0.34), (8, 120, 6, 1, 0.51), (8, 120, 6, 3, 0.54), (8, 120, 6, 5, 0.49), (10, 80, 4, 1, 0.5), (10, 80, 4, 3, 0.52), (10, 100, 4, 1, 0.46), (10, 100, 4, 3, 0.51), (10, 120, 4, 1, 0.41), (10, 120, 4, 3, 0.44)]
+33
+
+End time: 2023-09-21 12:05:21.191439
+
+Time elapsed: 0:00:59.053444
