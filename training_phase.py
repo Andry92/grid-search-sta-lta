@@ -16,7 +16,7 @@ def cut_limit(trace):
     return trace
 
 # open log_file in write mode
-log_filename = "training_log_"+str(datetime.datetime.now()).replace(":", "")+".txt"
+log_filename = "training_log_"+str(datetime.datetime.now()).replace(":", "")+".log"
 print(log_filename)
 f=open("log/"+log_filename, "w")
 
