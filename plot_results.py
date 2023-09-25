@@ -2,12 +2,15 @@ import itertools
 import matplotlib.pyplot as plt
 import re
 import sys
-
+import numpy as np
+'''
 filename = input("Insert the results filename to show the plot (without extension): ")
 if filename == "":
     print("No file input")
     sys.exit()
-
+'''
+filename = "testing_results_20230921T181427.297166"
+#filename = "array_results_improved"
 quintuples = []
 
 # read results from file
@@ -58,7 +61,7 @@ print("lta_list", lta_list)
 
 trig_on_list.sort()
 print("trig_on_list", trig_on_list)
-print("trig_off_list", trig_off_list)
+print("trig_off_list\n", trig_off_list)
 
 # Create a list with only QNI values selected (fullfilled with zeros)
 c = list(itertools.product(sta_list, lta_list))
@@ -112,22 +115,22 @@ for comb_trig in c_trig:
        trig_off_comb.append(comb_trig[1])
 
 fig = plt.figure(figsize=(20,18))
+plt.subplots_adjust(wspace=0.5, hspace=0.5)
 
 i_th_list = 0
 for i in range(len(sta_list)):
     for j in range(len(lta_list)):
             ax = plt.subplot2grid((len(sta_list),len(lta_list)), (i,j))
-
             ax.scatter(trig_on_comb, trig_off_comb, new_results[i_th_list], new_results[i_th_list], cmap='viridis_r', vmin=0, vmax=100)
-            plt.xlabel("trigger on")
-            plt.ylabel("trigger off")
+            #plt.xlabel("trigger on")
+            #plt.ylabel("trigger off")
 
             i_th_list+=1
 
 # get the last axes
 im = plt.gca().get_children()[0]
-# set colorbar scale
-#im.set_clim(0,100)
+#plt.plot([1,3,5], [2,4,6])
+
 # position of the figures
 cax = fig.add_axes([0.93,0.1,0.03,0.8])
 # set colorbar for figure
@@ -139,31 +142,33 @@ cb.ax.invert_yaxis()
 # change fontsize text colorbar
 cb.ax.tick_params(labelsize=14)
 
-#fig.text(0.08, 0.84, '2', va='center', fontsize = 13)
-#fig.text(0.08, 0.74, '4', va='center', fontsize = 13)
-fig.text(0.07, 0.76, '6', va='center', fontsize = 13)
-fig.text(0.07, 0.50, '8', va='center', fontsize = 13)
-fig.text(0.07, 0.23, '10', va='center', fontsize = 13)
-#fig.text(0.08, 0.35, '12', va='center', fontsize = 13)
-#fig.text(0.08, 0.25, '14', va='center', fontsize = 13)
-#fig.text(0.08, 0.15, '16', va='center', fontsize = 13)
+# add axes for STA, LTA values
+ax3 = fig.add_axes([0.10,0.076,0.80,0.805])
+# Hide the right and top spines
+ax3.spines[['right', 'top']].set_visible(False)
 
-#fig.text(0.15, 0.05, '20', va='center', fontsize = 13)
-#fig.text(0.22, 0.05, '40', va='center', fontsize = 13)
-#fig.text(0.29, 0.05, '60', va='center', fontsize = 13)
-fig.text(0.23, 0.03, '80', va='center', fontsize = 13)
-fig.text(0.51, 0.03, '100', va='center', fontsize = 13)
-fig.text(0.78, 0.03, '120', va='center', fontsize = 13)
-#fig.text(0.58, 0.05, '140', va='center', fontsize = 13)
-#fig.text(0.65, 0.05, '160', va='center', fontsize = 13)
-#fig.text(0.72, 0.05, '180', va='center', fontsize = 13)
-#fig.text(0.79, 0.05, '200', va='center', fontsize = 13)
-#fig.text(0.86, 0.05, '220', va='center', fontsize = 13)
+offset_x = (((lta_list[1] - lta_list[0]) / 2) / 2) + 10
+print("offset_x: ", offset_x)
+offset_y = (((sta_list[1] - sta_list[0]) / 2) / 2) + 0.75
+#offset_y = sta_list[0] - ((((sta_list[1] - sta_list[0]) / 2) / 2) + 0.75)
+print("offset_y: ", offset_y)
 
-fig.text(0.51, 0.001, 'LTA (s)', ha='center', fontsize = 15)
-fig.text(0.04, 0.5, 'STA (s)', va='center', rotation='vertical', fontsize = 15)
+ax3.set_xlim(min(lta_list)-offset_x ,max(lta_list)+offset_x/2)
+ax3.set_ylim(min(sta_list)-offset_y, max(sta_list)+offset_y/2)
+#ax3.set_ylim(min(sta_list)-1.25, max(sta_list)+0.625)
 
-#fig.text(0.41, 0.93, 'STA / LTA EXPERIMENTS RESULTS', va='center', style = 'italic', fontsize = 15)
+ax3.set_xticks(lta_list)
+ax3.set_yticks(sta_list)
+
+# set_yticklabels is used to revert 
+# the order of the sta values on plot
+ax3.set_yticklabels(sta_list[::-1])
+
+ax3.set_xlabel("LTA (s)", fontsize=13)
+ax3.set_ylabel("STA (s)", fontsize=13)
+
+# set transparency to the axes
+ax3.patch.set_alpha(0.01)
 
 fig.suptitle("Results of: "+ filename, fontsize=16)
 plt.show()
