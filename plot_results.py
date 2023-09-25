@@ -3,13 +3,14 @@ import matplotlib.pyplot as plt
 import re
 import sys
 import numpy as np
-'''
+
 filename = input("Insert the results filename to show the plot (without extension): ")
 if filename == "":
     print("No file input")
     sys.exit()
-'''
-filename = "testing_results_20230921T181427.297166"
+
+#filename = "training_results_20230921T173053.187572"
+#filename = "testing_results_20230921T181427.297166"
 #filename = "array_results_improved"
 quintuples = []
 
