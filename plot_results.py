@@ -128,6 +128,11 @@ for i in range(len(sta_list)):
 
             i_th_list+=1
 
+ax_label_x = plt.gca().secondary_xaxis('top')
+ax_label_x.set_xlabel('Trigger on')
+ax_label_y = plt.gca().secondary_yaxis('right')
+ax_label_y.set_ylabel('Trigger off')
+
 # get the last axes
 im = plt.gca().get_children()[0]
 #plt.plot([1,3,5], [2,4,6])
@@ -149,14 +154,10 @@ ax3 = fig.add_axes([0.10,0.076,0.80,0.805])
 ax3.spines[['right', 'top']].set_visible(False)
 
 offset_x = (((lta_list[1] - lta_list[0]) / 2) / 2) + 10
-print("offset_x: ", offset_x)
 offset_y = (((sta_list[1] - sta_list[0]) / 2) / 2) + 0.75
-#offset_y = sta_list[0] - ((((sta_list[1] - sta_list[0]) / 2) / 2) + 0.75)
-print("offset_y: ", offset_y)
 
 ax3.set_xlim(min(lta_list)-offset_x ,max(lta_list)+offset_x/2)
 ax3.set_ylim(min(sta_list)-offset_y, max(sta_list)+offset_y/2)
-#ax3.set_ylim(min(sta_list)-1.25, max(sta_list)+0.625)
 
 ax3.set_xticks(lta_list)
 ax3.set_yticks(sta_list)

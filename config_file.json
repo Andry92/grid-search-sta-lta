@@ -1,0 +1,11 @@
+{
+    "sta_min_value": 8,
+    "sta_max_value": 12,
+    "lta_min_value": 100,
+    "lta_max_value": 140,
+    
+    "trig_on_min_value": 2,
+    "trig_on_max_value": 7,
+    "trig_off_min_value": 1,
+    "trig_off_max_value": 6
+}
