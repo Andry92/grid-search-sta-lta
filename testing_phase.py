@@ -18,7 +18,7 @@ def cut_limit(trace):
 
     return trace
 
-def testing_phase(config_file, filename):
+def testing_phase(config_file, filename_train_results):
     # open log_file in write mode
     log_filename = "testing_log_"+str(datetime.datetime.now()).replace(":", "")+".log"
     print(log_filename)
@@ -65,7 +65,7 @@ def testing_phase(config_file, filename):
     quintuples = []
 
     # read results from file
-    with open('results/'+filename+'.txt') as result_file:
+    with open('results/'+filename_train_results+'.txt') as result_file:
         data = result_file.read()
         
         # match all the quintuples
@@ -336,12 +336,12 @@ if __name__ == "__main__":
     # ------------
     # In this part, it is required to the user to enter the training results file name. From the quintuples,
     # the quadruples with qni's value equal or greater than 0.5 are extracted and used for testing
-    filename = input("Insert the training results filename that you want for testing (without extension): ")
-    if filename == "":
+    filename_train_results = input("Insert the training results filename that you want for testing (without extension): ")
+    if filename_train_results == "":
         print("No file input")
         sys.exit()
 
     with open("config_file.json", "r") as f:
         config_file = json.load(f)
 
-    testing_phase(config_file, filename)
+    testing_phase(config_file, filename_train_results)
