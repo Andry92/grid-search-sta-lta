@@ -1,11 +1,16 @@
 {
-    "sta_min_value": 8,
+    "sta_min_value": 6,
     "sta_max_value": 12,
-    "lta_min_value": 100,
+    "lta_min_value": 80,
     "lta_max_value": 140,
     
     "trig_on_min_value": 2,
     "trig_on_max_value": 7,
     "trig_off_min_value": 1,
-    "trig_off_max_value": 6
+    "trig_off_max_value": 6,
+
+    "training_data_path_raw": "data/training_set/first_day_raw",
+    "training_data_path_cutted": "data/training_set/first_day_cutted",
+    "testing_data_path_raw": "data/testing_set/fifth_day_raw",
+    "testing_data_path_cutted": "data/testing_set/fifth_day_cutted"
 }

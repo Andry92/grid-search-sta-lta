@@ -29,14 +29,14 @@ def training_phase(config_file):
         f.write("\n")
 
     # extract all the raw signals
-    directory_raw = "data/training_set/first_day_raw"
+    directory_raw = config_file['training_data_path_raw']
     all_files_raw = []
 
     for filename in os.listdir(directory_raw):
         all_files_raw.append(filename)
 
     # extract all the cutted signals
-    directory_cutted = "data/training_set/first_day_cutted"
+    directory_cutted = config_file['training_data_path_cutted']
     all_files_cutted = []
 
     for filename in os.listdir(directory_cutted):
